@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Country_Region,City,State_Province,Postal_Code,Customer_Name,Product_Name,Quantity,Discount
+593493,2018-02-25,18,First Class,United States,Newark,New Jersey,07195,Ken Black,Case Logic 2.4GHz Wireless Keyboard,65,0.69
+245840,2018-07-29,3,Second Class,United States,Peoria,Arizona,85383,Craig Leslie,DAX Value U-Channel Document Frames,2,0.47
+418194,2018-07-16,26,Second Class,Canada,Fermont,Québec,J1E,David Wiener,End Table,14,0.26
+520755,2018-06-24,19,First Class,Canada,Princeville,Québec,J1J,Rick Hansen,Colored Envelopes,52,0.07
+254624,2018-07-17,13,Second Class,United States,Denton,Texas,76205,Tom Stivers,Acme Kleen Earth Office Shears,48,0.54
+948270,2018-07-31,10,Second Class,Mexico,Las Flores,Tamaulipas,87395,Phillina Ober,Avery 49,28,0.63
+922829,2018-02-17,23,Standard Class,Canada,Stonewall,Manitoba,H9J,Tim Brockman,19w x 6d x 43h,28,0.32
+335157,2018-05-10,12,Standard Class,Mexico,Buenavista,Oaxaca,71730,Henry MacAllister,Eldon Shelf Savers Cubes and Bins,10,0.14
+404484,2018-07-16,2,Standard Class,Mexico,Independencia,Guanajuato,38260,Trudy Glocke,Satellite Sectional Post Binders,18,0.4
+523545,2018-02-04,17,Expedited,Mexico,Guadalupe,Veracruz Llave,94590,Erin Ashbrook,Xerox 1978,95,0.38
+916238,2018-12-04,26,Standard Class,Mexico,Francisco I Madero,Chiapas,30853,Steven Cartwright,Staple remover,52,0.56
+736215,2018-05-07,4,Second Class,Mexico,Benito Juarez,Chihuahua,31540,Thea Hudgings,Things To Do Today Spiral Book,55,0.35
+737861,2018-09-28,24,Standard Class,United States,Phoenix,Arizona,85053,Bobby Odegard,Hunt BOSTON Vista Battery-Operated Pencil Sharpener,85,0.34
+28368,2018-12-06,14,Second Class,United States,Rochester,New York,14683,Thea Hendricks,Xerox 1990,18,0.43
+443618,2018-04-02,15,First Class,United States,Washington,District of Columbia,20022,Julia Barnett,6/Carton,81,0.55
+676921,2018-06-30,20,First Class,Canada,Irricana,Alberta,B3T,Brenda Bowman,Eldon Simplefile Box Office,78,0.6
+693428,2018-10-17,29,Standard Class,United States,Toledo,Ohio,43666,Maria Zettner,Airmail Envelopes,26,0.47
+847443,2018-05-18,15,Standard Class,Canada,Cochrane,Alberta,T4C,Nona Balk,Standard Lip,23,0.42
+475208,2018-08-17,28,Second Class,United States,Scottsdale,Arizona,85271,Stefanie Holloman,Wilson Jones Century Plastic Molded Ring Binders,58,0.03
+32610,2018-12-09,21,Standard Class,Canada,Bridgewater,Nova Scotia,B4V,Liz Carlisle,Newell 321,13,0.66
+548006,2018-06-17,7,First Class,Canada,Oshawa,Ontario,L1K,Toby Gnade,Nu-Dell Leatherette Frames,98,0.62
+264549,2018-06-09,8,First Class,Mexico,San Isidro,Durango,35156,Dave Poirier,Portable Personal File Box,49,0.56
+438289,2018-08-27,18,Expedited,Canada,Mont-Royal,Québec,H5B,Dorris liebe,Newell 350,1,0.2
+785019,2018-10-30,18,Second Class,Mexico,Tierra Blanca,Guerrero,40678,Tracy Poddar,12/Pack,84,0.06
+586092,2018-08-17,15,First Class,Mexico,Morelos,Michoacan De Ocampo,61609,Mark Cousins,Barricks 18 x 48 Non-Folding Utility Table with Bottom Storage Shelf,53,0.18
+448631,2018-07-19,20,Standard Class,United States,Corona,California,92883,Liz Preis,Acme Design Line 8 Stainless Steel Bent Scissors w/Champagne Handles,88,0.3
+59612,2018-04-16,15,Standard Class,Mexico,Cuauhtemoc,Tamaulipas,87426,Roy Collins,Catalog Binders with Expanding Posts,36,0.46
+115057,2018-07-08,8,First Class,Canada,Kentville,Nova Scotia,B4N,Nicole Brennan,unpunched,19,0.61
+98310,2018-03-20,19,First Class,United States,Odessa,Texas,79764,Darrin Van Huff,Chisel Tip,63,0.46
+853045,2018-08-14,10,First Class,Mexico,San Jose,Guerrero,39266,Bart Folk,Side-Loading,18,0.68
+609705,2018-10-07,28,Second Class,United States,Chattanooga,Tennessee,37416,Janet Molinari,X-Base,32,0.56
+915793,2018-07-15,24,Expedited,Canada,Neepawa,Manitoba,H3Z,Denny Blanton,OSullivan Elevations Bookcase,94,0.63
+299156,2018-06-24,10,First Class,Canada,Rosthern,Saskatchewan,B0L,Stefanie Holloman,Sharp 1540cs Digital Laser Copier,94,0.38
+921517,2018-01-22,30,Second Class,Canada,Vaughan,Ontario,M3N,Sarah Bern,ACCOHIDE 3-Ring Binder,81,0.12
+420452,2018-11-03,10,Standard Class,United States,Schaumburg,Illinois,60193,Katherine Murray,12/Pack,68,0.12
+869402,2018-11-06,10,Second Class,United States,Los Angeles,California,90065,Ken Dana,Avery 3 1/2 Diskette Storage Pages,71,0.25
+941661,2018-01-06,27,Expedited,United States,Tempe,Arizona,85284,Theone Pippenger,Ampad Poly Cover Wirebound Steno Book,31,0.49
+794820,2018-01-12,16,Second Class,Canada,Revelstoke,British Columbia,H9K,John Huston,Avery 51,52,0.27
+142166,2018-02-02,25,Second Class,Canada,Mont-Royal,Québec,H5B,Michael Dominguez,AT&T CL82213,7,0.54
+808956,2018-11-08,23,First Class,United States,Charlotte,North Carolina,28210,Tiffany House,Plastic,31,0.13
+155782,2018-03-09,13,Second Class,United States,Garland,Texas,75049,Maureen Gastineau,Belkin 6 Outlet Metallic Surge Strip,37,0.72
+756122,2018-12-12,17,Standard Class,Mexico,San Pedro,Mexico,52140,Darren Budd,Dax Clear Box Frame,10,0.55
+357690,2018-06-26,25,First Class,United States,San Francisco,California,94110,Raymond Buch,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,3,0.09
+285295,2018-11-18,10,Second Class,Mexico,San Cristobal,Guanajuato,36800,Tanja Norvell,GBC Recycled Regency Composition Covers,83,0.47
+516018,2018-04-12,19,Expedited,United States,Hartford,Connecticut,06145,Sally Knutson,G.E. Longer-Life Indoor Recessed Floodlight Bulbs,92,0.33
+735089,2018-01-22,16,Second Class,United States,Saint Petersburg,Florida,33715,Michael Dominguez,Acco Perma 4000 Stacking Storage Drawers,21,0.47
+439583,2018-02-20,20,First Class,United States,Scottsdale,Arizona,85260,Chris Selesnick,Eldon Shelf Savers Cubes and Bins,95,0.39
+65582,2018-11-07,30,First Class,United States,Monroe,Louisiana,71213,Brenda Bowman,GuestStacker Chair with Chrome Finish Legs,72,0.34
+563910,2018-04-23,2,First Class,Mexico,Vista Hermosa,Guerrero,39130,Julie Prescott,Ooma Telo VoIP Home Phone System,29,0.36
+915792,2018-06-06,13,Standard Class,Canada,Les Cèdres,Québec,J6S,Katherine Ducich,Gray,33,0.37
+364671,2018-08-15,27,Second Class,United States,Huntsville,Alabama,35805,Shaun Weien,High Speed Automatic Electric Letter Opener,25,0.7
+922566,2018-03-06,19,First Class,Mexico,Revolucion,Veracruz Llave,93610,Ralph Ritter,Light Blue,10,0.66
+118912,2018-05-16,2,Expedited,Mexico,Independencia,Michoacan De Ocampo,60070,Valerie Dominguez,While You Were Out Pads,57,0.49
+673403,2018-02-25,12,Expedited,Mexico,Petrolera,Veracruz Llave,94723,Mark Packer,Global Deluxe High-Back Managers Chair,57,0.6
+407170,2018-01-21,27,First Class,Canada,Carleton-sur-Mer,Québec,P0T,Alan Hwang,Accessory Kit,87,0.37
+139435,2018-08-30,30,First Class,United States,Philadelphia,Pennsylvania,19120,Jessica Myrick,Hon 2111 Invitation Series Straight Table,100,0.53
+104998,2018-03-30,2,Expedited,United States,Youngstown,Ohio,44505,Scot Wooten,6 Capacity,44,0.35
+261137,2018-09-08,29,Second Class,United States,Lincoln,Nebraska,68510,Joni Wasserman,GBC Prestige Therm-A-Bind Covers,91,0.48
+715056,2018-03-01,5,Standard Class,United States,Tampa,Florida,33647,Laurel Beltran,Four 2-3/4 x 7-1/4 Money Receipts per Page,62,0.64
+73288,2018-03-16,26,Standard Class,United States,Indianapolis,Indiana,46254,Jill Matthias,Staples in misc. colors,91,0.7
+997688,2018-01-29,26,Expedited,United States,Joliet,Illinois,60435,Lindsay Shagiari,Xerox 209,38,0.72
+476997,2018-06-27,25,Second Class,Mexico,Rancho Viejo,Guerrero,39965,Henry Goldwyn,KeyTronicÂ KT400U2 -Â KeyboardÂ - Black,94,0.7
+661791,2018-02-24,5,Second Class,Mexico,Benito Juarez,Chihuahua,31540,Jennifer Braxton,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,84,0.11
+322527,2018-03-19,16,Second Class,United States,Newark,Delaware,19725,Peter McVee,Black,79,0.1
+400400,2018-12-22,25,First Class,Mexico,Progreso,Chihuahua,31210,Suzanne McNair,Global Italian Leather Office Chair,70,0.15
+289433,2018-09-19,11,Standard Class,United States,Melbourne,Florida,32941,Shaun Chance,Motorola L804,59,0.56
+815224,2018-10-02,21,Expedited,Canada,Saint Andrews,New Brunswick,E5B,Rick Wilson,Logitech G600 MMO Gaming Mouse,55,0.12
+799280,2018-08-09,12,First Class,United States,Aurora,Colorado,80045,Raymond Messe,8-1/2x11,29,0.35
+400959,2018-12-20,28,Expedited,United States,Newton,Massachusetts,02162,Lisa DeCherney,Eldon Image Series Black Desk Accessories,66,0.06
+686548,2018-10-25,4,Standard Class,Mexico,Cuauhtemoc,Guerrero,40068,Janet Martin,Acme Kleencut Forged Steel Scissors,67,0.28
+399114,2018-12-26,2,Standard Class,United States,Tulsa,Oklahoma,74116,Roland Fjeld,GE 30522EE2,35,0.24
+190587,2018-09-21,12,Second Class,United States,Philadelphia,Pennsylvania,19178,Philisse Overcash,Xerox 205,6,0.3
+506367,2018-08-23,30,Standard Class,United States,Orlando,Florida,32891,Emily Ducich,Xerox 1925,65,0.25
+979217,2018-02-23,24,Standard Class,Canada,Notre-Dame-de-l'Île-Perrot,Québec,H9X,Trudy Glocke,50 per Pad,73,0.24
+187043,2018-05-28,30,First Class,Canada,Lorraine,Québec,J7B,Benjamin Patterson,GE DSL Phone Line Filter,26,0.33
+611953,2018-09-21,27,Standard Class,Mexico,Del Valle,Veracruz Llave,92125,Troy Staebel,5000/Box,18,0.75
+108592,2018-05-11,20,Expedited,Mexico,San Diego,Mexico,56700,Mike Caudle,Plantronics CS 50-USB -Â headsetÂ - Convertible,96,0.47
+959273,2018-11-16,2,Expedited,Mexico,San Isidro,Jalisco,45147,Brian Dahlen,Plymouth Boxed Rubber Bands by Plymouth,40,0.7
+754205,2018-06-12,19,Standard Class,United States,Jamaica,New York,11470,Russell Applegate,Round Specialty Laser Printer Labels,8,0.05
+14355,2018-08-12,14,Expedited,United States,Shawnee Mission,Kansas,66225,Nicole Brennan,Xerox 1988,33,0.07
+901328,2018-02-24,19,Second Class,Mexico,Venustiano Carranza,Chiapas,30171,Randy Ferguson,ACCOHIDE Binder by Acco,51,0.31
+868942,2018-06-27,21,Standard Class,Mexico,San Rafael,San Luis Potosi,79783,Christina VanderZanden,Xerox 203,100,0.24
+681345,2018-11-26,20,Expedited,United States,Oklahoma City,Oklahoma,73142,Barry Franz,Akro Stacking Bins,91,0.37
+48256,2018-11-28,19,Second Class,Canada,Duncan,British Columbia,V9L,Steven Roelle,Eldon Expressions Wood and Plastic Desk Accessories,56,0.46
+88870,2018-02-11,14,Standard Class,Mexico,Libertad,Sonora,83450,Denny Blanton,Bravo II Megaboss 12-Amp Hard Body Upright,69,0.47
+608222,2018-12-24,22,Second Class,United States,Lansing,Michigan,48912,Paul Stevenson,500 Sheets per Pack,13,0.46
+532665,2018-09-01,17,Expedited,United States,Detroit,Michigan,48242,Dan Campbell,Gregg Ruled,53,0.08
+609314,2018-06-14,4,First Class,Canada,Virden,Manitoba,J5V,Bruce Geld,Xerox 1957,57,0.45
+21866,2018-06-21,5,First Class,United States,Phoenix,Arizona,85067,Laurel Beltran,SAFCO Arco Folding Chair,100,0.74
+914592,2018-10-09,9,Expedited,United States,Evansville,Indiana,47737,Kean Thornton,Tenex Traditional Chairmats for Medium Pile Carpet,94,0.72
+39239,2018-04-11,12,Standard Class,Canada,Carbonear,Newfoundland and Labrador,A1Y,Vivian Mathis,BIC Brite Liner Highlighters,35,0.71
+7816,2018-09-29,18,First Class,Mexico,Rancho Nuevo,Veracruz Llave,91275,Julia Dunbar,Ebony,54,0.32
+267341,2018-12-15,23,Second Class,Mexico,San Marcos,Guanajuato,36951,Mick Brown,SanDisk Cruzer 32 GB USB Flash Drive,22,0.51
+455696,2018-10-06,21,Standard Class,United States,Memphis,Tennessee,38168,Ben Wallace,BIC Brite Liner Grip Highlighters,45,0.31
+727091,2018-01-01,12,Expedited,United States,Chicago,Illinois,60609,Benjamin Patterson,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,60,0.54
+874173,2018-06-23,27,Expedited,United States,Naples,Florida,34114,Tanja Norvell,400 Messages per Book,50,0.45
+708942,2018-12-02,29,Standard Class,Canada,Beaconsfield,Québec,H9W,Shahid Hopkins,SanDisk Cruzer 32 GB USB Flash Drive,98,0.41
+3070,2018-04-19,8,Second Class,Canada,Morden,Manitoba,R6M,Scott Cohen,Bush Heritage Pine Collection 5-Shelf Bookcase,22,0.65
+888464,2018-04-10,10,Standard Class,United States,Seattle,Washington,98158,Vivek Gonzalez,Wilson Jones Legal Size Ring Binders,26,0.15
+600590,2018-08-13,16,Second Class,United States,Buffalo,New York,14225,Carl Ludwig,Barricks 18 x 48 Non-Folding Utility Table with Bottom Storage Shelf,63,0.37
+339669,2018-12-19,19,Expedited,Canada,Hearst,Ontario,S4A,Rick Hansen,Maxell 4.7GB DVD-RW 3/Pack,74,0.28
+751210,2018-11-09,28,First Class,United States,Atlanta,Georgia,30358,Thomas Thornton,Portable Personal File Box,83,0.53
+491266,2018-01-14,11,Standard Class,Canada,Lavaltrie,Québec,J5T,Claudia Bergmann,Wire Frame,25,0.12
+848202,2018-03-29,21,Expedited,Canada,Penhold,Alberta,L2E,Aaron Bergman,Tyvek  Top-Opening Peel & Seel Envelopes,89,0.0
+57582,2018-02-02,21,Second Class,United States,Colorado Springs,Colorado,80935,Ben Peterman,Xerox 1965,18,0.57
+491166,2018-03-26,11,Expedited,Mexico,Venustiano Carranza,Chiapas,30171,Karen Ferguson,Acco Pressboard Covers with Storage Hooks,81,0.21
+720957,2018-08-11,10,Expedited,United States,Florence,South Carolina,29505,Chuck Magee,1,5,0.73
+890440,2018-11-30,17,Standard Class,Mexico,Santa Cruz,Veracruz Llave,92733,Denise Monton,OSullivan 4-Shelf Bookcase in Odessa Pine,39,0.34
+566067,2018-05-04,1,Expedited,United States,Vancouver,Washington,98682,Fred Wasserman,Blue,91,0.38
+463008,2018-06-16,18,First Class,Canada,Lac-Mégantic,Québec,G6B,Eugene Barchas,Mitel 5320 IP Phone VoIP phone,27,0.1
+893975,2018-05-04,10,Standard Class,United States,Washington,District of Columbia,20067,Jason Fortune-,100/Box,76,0.7
+637490,2018-11-06,6,Standard Class,Mexico,San Luis,Coahuila De Zaragoza,27400,Tamara Manning,BOSTON Model 1800 Electric Pencil Sharpeners,83,0.24
+765238,2018-01-13,19,First Class,United States,Columbus,Ohio,43231,Maureen Gnade,Canon PC1080F Personal Copier,57,0.69
+719003,2018-10-09,11,Expedited,United States,Sacramento,California,94263,Rick Bensley,Economy #2 Pencils,97,0.44
+123266,2018-08-04,8,Standard Class,United States,Midland,Texas,79705,Steve Carroll,Vtech CS6719,20,0.73
+64836,2018-04-21,27,Expedited,United States,Knoxville,Tennessee,37995,Darrin Martin,Heavy Gauge Vinyl,26,0.3
+430212,2018-08-10,25,Expedited,Mexico,Jardin,Veracruz Llave,93439,Jason Fortune-,Newell 335,12,0.4
+571618,2018-06-30,12,Expedited,Canada,Newmarket,Ontario,L9N,James Peterman,9 1/2 x 11,40,0.3
+203869,2018-05-20,6,Standard Class,United States,Columbus,Ohio,43231,Jeremy Pistek,Ibico Plastic Spiral Binding Combs,67,0.39
+398150,2018-07-21,28,Expedited,United States,Vienna,Virginia,22184,Michael Dominguez,Staple magnet,93,0.03
+186915,2018-09-01,11,First Class,Canada,Les Coteaux,Québec,J7X,Jas OCarroll,Griffin GC36547 PowerJolt SE Lightning Charger,59,0.54
+169012,2018-10-30,21,First Class,United States,Cincinnati,Ohio,45223,Stewart Visinsky,100/Box,100,0.31
+981202,2018-04-30,30,Second Class,United States,Fort Lauderdale,Florida,33330,Shirley Jackson,Eureka Recycled Copy Paper 8 1/2 x 11,69,0.25
+886038,2018-05-28,7,Expedited,Canada,Matagami,Québec,N2M,Craig Leslie,Newell 320,96,0.75
+339035,2018-11-09,25,First Class,Canada,Sainte-Thérèse,Québec,J7G,Dennis Bolton,3-ring staple pack,82,0.07
+911906,2018-02-21,15,Second Class,United States,Des Moines,Iowa,50320,Tom Stivers,Wilson Jones Hanging View Binder,97,0.11
+312628,2018-04-22,17,Expedited,United States,Inglewood,California,90398,Shahid Hopkins,Aluminum Document Frame,21,0.36
+382567,2018-10-17,16,Expedited,Mexico,Francisco I Madero,Veracruz Llave,93995,Christine Kargatis,6 Color-Coded Adapter Outlets,17,0.51
+749799,2018-02-15,21,First Class,Canada,Vegreville,Alberta,T9C,Sonia Sunley,Boston Heavy-Duty Trimline Electric Pencil Sharpeners,60,0.05
+943529,2018-10-19,3,Second Class,Canada,Catalina,Newfoundland and Labrador,B2V,Robert Waldorf,For Use as 4 or 5 14 Cubes,40,0.75
+96483,2018-02-27,18,First Class,United States,Washington,District of Columbia,20210,Maurice Satty,Heavy Gauge Vinyl,72,0.67
+14930,2018-11-08,14,Expedited,Mexico,Rancho Nuevo,San Luis Potosi,78430,Anthony Rawles,Bevis Round Conference Table Top,28,0.39
+877137,2018-11-20,24,Standard Class,United States,Boise,Idaho,83722,Evan Minnotte,Logitech G602 Wireless Gaming Mouse,65,0.02
+51746,2018-11-13,12,Expedited,United States,Rockford,Illinois,61105,Naresj Patel,Newell 321,20,0.21
+354635,2018-06-22,15,Second Class,United States,Tulsa,Oklahoma,74103,Erin Ashbrook,Tuff Stuff Recycled Round Ring Binders,71,0.6
+320957,2018-06-03,28,Expedited,United States,Fort Worth,Texas,76115,Sung Shariari,Button-String,35,0.42
+237864,2018-10-11,5,Expedited,Mexico,San Jose,Veracruz Llave,95643,Dionis Lloyd,Xerox 195,53,0.37
+830663,2018-05-14,22,Second Class,United States,El Paso,Texas,88530,Shahid Hopkins,Avery 483,97,0.25
+829309,2018-11-08,27,Second Class,Canada,Orillia,Ontario,L3V,Natalie Fritzler,Executive Impressions 13 Clairmont Wall Clock,45,0.22
+762901,2018-12-01,14,Standard Class,United States,Arlington,Virginia,22205,Mike Kennedy,Regeneration Desk Collection,67,0.15
+783161,2018-07-23,2,Standard Class,United States,Washington,District of Columbia,20078,Michael Nguyen,Collection System,64,0.15
+947561,2018-03-01,29,First Class,United States,Charlotte,North Carolina,28263,Valerie Mitchum,Aluminum Document Frame,67,0.37
+38501,2018-05-16,9,Second Class,Canada,Drummondville,Québec,J2E,Ken Black,Contract Clock,39,0.16
+55501,2018-02-05,1,First Class,United States,Wichita,Kansas,67260,Amy Cox,Xerox 1965,74,0.65
+254277,2018-12-14,17,Standard Class,United States,Orlando,Florida,32835,Mick Brown,Lexmark MX611dhe Monochrome Laser Printer,49,0.73
+882879,2018-03-26,13,Expedited,United States,Rockford,Illinois,61110,Michael Stewart,Binder Clips by OIC,46,0.69
+80876,2018-12-22,30,Expedited,United States,Detroit,Michigan,48217,Sung Shariari,Angle-D Binders with Locking Rings,90,0.05
+500766,2018-03-03,29,Standard Class,United States,Atlanta,Georgia,30351,Thomas Brumley,Polycom CX300 Desktop Phone USB VoIP phone,28,0.48
+653277,2018-11-19,5,First Class,Canada,Port-Cartier,Québec,G5B,Carlos Daly,Wilson Jones Turn Tabs Binder Tool for Ring Binders,91,0.37
+929687,2018-06-04,25,Second Class,Canada,South River,Ontario,P3Y,Corinna Mitchell,Xerox 1985,91,0.51
+100113,2018-01-09,21,First Class,United States,San Jose,California,95108,Jim Epp,Hewlett Packard LaserJet 3310 Copier,87,0.16
+69984,2018-07-17,18,Expedited,United States,Washington,District of Columbia,56944,Sean ODonnell,Bevis Traditional Conference Table Top,46,0.56
+265497,2018-07-22,2,Standard Class,United States,Houston,Texas,77065,Laura Armstrong,Staples,12,0.1
+255703,2018-12-20,6,Expedited,United States,Tucson,Arizona,85715,Edward Hooks,DIXON Ticonderoga Erasable Checking Pencils,91,0.71
+226641,2018-06-25,13,First Class,Mexico,La Guadalupe,Oaxaca,71703,Roy Collins,Avery 490,62,0.71
+471680,2018-04-12,28,First Class,Canada,Norfolk County,Ontario,T0C,Clay Rozendal,Avery Non-Stick Binders,49,0.45
+393944,2018-02-23,12,Expedited,United States,Houston,Texas,77288,Dave Kipp,6 Color-Coded Adapter Outlets,46,0.38
+666465,2018-08-24,30,Standard Class,Mexico,Loma Bonita,Mexico,52740,Anna HÃ¤berlin,GBC Prestige Therm-A-Bind Covers,10,0.32
+116109,2018-02-21,4,Second Class,Canada,Kirkland,Québec,H9J,Thomas Brumley,Newell 335,43,0.28
+957672,2018-03-26,18,Second Class,Mexico,Las Flores,Oaxaca,70317,David Smith,36,5,0.58
+785431,2018-07-05,13,Second Class,Canada,Toronto,Ontario,M7A,Dave Poirier,Lip 20 x 11 -90 Degree Angle,20,0.36
+749405,2018-11-13,10,Expedited,United States,Cincinnati,Ohio,45213,Bruce Galang,SAFCO Boltless Steel Shelving,45,0.15
+536982,2018-11-13,18,Standard Class,Canada,Lacombe,Alberta,T4L,Mark Packer,Fellowes Binding Cases,23,0.61
+50061,2018-06-02,18,Second Class,Mexico,San Rafael,Guerrero,41640,"",Black,97,0.03
+133743,2018-10-07,20,First Class,Mexico,Francisco I Madero,Coahuila De Zaragoza,26010,Thea Hendricks,Angle-D Ring Binders,71,0.44
+750632,2018-09-21,9,Standard Class,Canada,Vanderhoof,British Columbia,G9A,Toby Gnade,Acrylic Self-Standing Desk Frames,32,0.24
+541648,2018-06-18,4,Expedited,Canada,Lambton Shores,Ontario,J5T,Sam Zeldin,Pressboard Covers with Storage Hooks,46,0.01
+718304,2018-03-05,18,Second Class,United States,Oceanside,California,92056,Karen Seio,Executive Impressions 13 Chairman Wall Clock,12,0.61
+243272,2018-04-03,29,Expedited,United States,Lexington,Kentucky,40510,Natalie Webber,Sannysis Cute Owl Design Soft Skin Case Cover for Samsung Galaxy S4,22,0.11
+263663,2018-06-26,3,Second Class,Canada,Bécancour,Québec,G9H,Adam Shillingsburg,Yellow,3,0.03
+90492,2018-10-23,27,Standard Class,Canada,Saint-Constant,Québec,J5A,Philisse Overcash,File Shuttle II and Handi-File,9,0.29
+561149,2018-04-24,26,Second Class,United States,Des Moines,Iowa,50320,Arthur Wiediger,Deflect-o DuraMat Lighweight,18,0.26
+902570,2018-10-06,17,Expedited,Mexico,Benito Juarez,Chihuahua,31540,Michael Chen,Smoke,60,0.59
+236679,2018-06-23,3,Expedited,Mexico,Progreso,Chihuahua,31210,Alejandro Grove,Staple-on labels,23,0.11
+470347,2018-03-19,16,Expedited,United States,Charleston,West Virginia,25331,Edward Becker,White,3,0.19
+246678,2018-01-07,17,Standard Class,United States,San Francisco,California,94132,Seth Vernon,Newell 35,51,0.6
+389692,2018-07-28,23,Standard Class,Canada,Fox Creek,Alberta,E4B,Michael Granlund,Avery 513,62,0.04
+928793,2018-12-28,5,First Class,United States,Tulsa,Oklahoma,74184,Don Jones,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,88,0.47
+343182,2018-07-04,19,Standard Class,United States,Waterbury,Connecticut,06705,Janet Martin,Round Specialty Laser Printer Labels,59,0.66
+229738,2018-11-15,24,Standard Class,United States,Fort Smith,Arkansas,72905,Ruben Dartt,Aluminum Document Frame,58,0.69
+110687,2018-01-06,25,Standard Class,United States,Naples,Florida,34102,Doug Bickford,AT&T 1080 Corded phone,10,0.53
+468030,2018-04-27,29,Standard Class,Canada,Morris,Manitoba,H8P,Nora Pelletier,Xerox 1921,89,0.11
+481740,2018-10-28,22,Standard Class,United States,Toledo,Ohio,43605,Michelle Ellison,Avery Durable Binders,33,0.72
+499117,2018-05-25,27,Second Class,Mexico,Las Palmas,Oaxaca,71984,Sonia Cooley,Vtech CS6719,55,0.22
+474066,2018-12-27,17,Second Class,Canada,Norman Wells,Northwest Territories,H3G,Anna Gayman,Xerox 213,93,0.59
+369157,2018-05-23,7,Standard Class,United States,Corpus Christi,Texas,78410,Christopher Conant,Hypercom P1300 Pinpad,57,0.16
+475810,2018-10-10,30,First Class,Mexico,San Francisco,Jalisco,46175,Kelly Andreada,Fellowes Mighty 8 Compact Surge Protector,49,0.59
+537548,2018-02-07,15,Standard Class,Canada,Fort Macleod,Alberta,V6S,Beth Fritzler,3D Systems Cube Printer,20,0.3
+776380,2018-02-11,13,Standard Class,United States,Charlotte,North Carolina,28235,Jonathan Howell,Ultra Door Pull Handle,55,0.08
+926290,2018-10-27,12,Expedited,United States,New York City,New York,10175,Chloris Kastensmidt,Newell 34,80,0.25
+865366,2018-07-01,13,Second Class,Canada,Hanna,Alberta,T6L,Saphhira Shifley,Advantus Plastic Paper Clips,7,0.47
+378096,2018-12-23,26,First Class,United States,Jacksonville,Florida,32255,Michael Dominguez,invisibleSHIELD by ZAGG Smudge-Free Screen Protector,28,0.06
+909355,2018-11-27,14,First Class,Mexico,Lazaro Cardenas,Tamaulipas,87326,David Bremer,Cisco SPA 501G IP Phone,8,0.28
+645730,2018-02-11,6,Expedited,United States,Pasadena,California,91186,Clay Rozendal,Ideal Clamps,89,0.12
+648561,2018-10-16,29,Standard Class,Mexico,Cuauhtemoc,Morelos,62767,Marc Harrigan,OSullivan Living Dimensions 5-Shelf Bookcases,30,0.29
+540750,2018-12-17,27,First Class,Canada,Taber,Alberta,T1G,Brian Stugart,Gray,97,0.55
+579214,2018-10-26,8,Standard Class,Mexico,Jardin,Veracruz Llave,93439,Guy Armstrong,60w x 37-1/2d,100,0.47
+165152,2018-05-22,15,First Class,Canada,Saint-Bruno-de-Montarville,Québec,J3V,Tom Ashbrook,Belkin 8 Outlet Surge Protector,45,0.02
+109090,2018-07-31,8,Second Class,Mexico,El Carmen,Mexico,54927,Jill Trafton,Sanford EarthWrite Recycled Pencils,73,0.48
+640379,2018-12-25,3,First Class,United States,Glendale,California,91210,Andrew Gjertsen,OSullivan 4-Shelf Bookcase in Odessa Pine,30,0.07
+322642,2018-11-04,21,Expedited,United States,Boston,Massachusetts,02203,Rick Duston,Dixon My First Ticonderoga Pencil,50,0.2
+908111,2018-09-04,30,First Class,United States,Pittsburgh,Pennsylvania,15286,Stewart Carmichael,SAFCO PlanMaster Heigh-Adjustable Drafting Table Base,60,0.51
+276057,2018-11-23,25,Expedited,United States,Bronx,New York,10464,Sylvia Foulston,Colored Push Pins,64,0.06
+510066,2018-10-30,6,Second Class,Canada,Lavaltrie,Québec,J5T,Ben Peterman,Sony Micro Vault Click 16 GB USB 2.0 Flash Drive,74,0.44
+618872,2018-12-01,29,Expedited,United States,Los Angeles,California,90065,Hallie Redmond,5 3/8â€ x 11â€,48,0.11
+805693,2018-02-01,4,Second Class,Canada,New-Richmond,Québec,J7R,Andy Yotov,Wireless Extenders zBoost YX545 SOHO Signal Booster,85,0.75
+201261,2018-03-06,6,Standard Class,Canada,Harbour Breton,Newfoundland and Labrador,M4N,Dave Brooks,Hon 5100 Series Wood Tables,16,0.08
+807028,2018-10-01,21,First Class,Canada,Powassan,Ontario,E3G,Ryan Akin,Eldon Fold N Roll Cart System,86,0.3
+241616,2018-07-16,13,Standard Class,United States,Philadelphia,Pennsylvania,19191,Aaron Bergman,Hon GuestStacker Chair,32,0.22
+901280,2018-06-30,22,First Class,Canada,Campbellton,New Brunswick,E3N,Claudia Bergmann,Novimex Swivel Fabric Task Chair,46,0.52
+779953,2018-07-29,18,Second Class,Canada,Bay Roberts,Newfoundland and Labrador,V3B,Benjamin Venier,Tennsco Snap-Together Open Shelving Units,69,0.04
+803454,2018-05-07,10,Second Class,United States,Daytona Beach,Florida,32123,Nora Pelletier,Insertable Tab Post Binder Dividers,8,0.11
+551698,2018-07-15,11,Standard Class,Canada,Timmins,Ontario,P4P,Jane Waco,GE 4 Foot Flourescent Tube,70,0.24
+546497,2018-08-29,24,Second Class,Canada,Lethbridge,Alberta,T1K,Katrina Bavinger,4/Pack,37,0.55
+582550,2018-06-09,16,Second Class,Mexico,Vicente Guerrero,Tabasco,86350,Pierre Wener,Logitech Trackman Marble Mouse,44,0.72
+154632,2018-09-14,18,Standard Class,Mexico,Buenavista,Veracruz Llave,94463,Damala Kotsonis,Logitech Trackman Marble Mouse,57,0.14
+867598,2018-08-25,19,Standard Class,Canada,Parksville,British Columbia,V9P,Brian Thompson,Avery 505,9,0.61
+674431,2018-03-20,16,Second Class,Mexico,Santa Rita,Guanajuato,36350,Sally Knutson,Samsung Galaxy S4 Active,10,0.08
+906894,2018-04-22,8,Standard Class,Canada,Beaverlodge,Alberta,G8A,Harry Marie,White,39,0.74
+42934,2018-02-26,3,Second Class,Canada,Hudson,Québec,J0N,Ricardo Emerson,Deluxe Chalkboard Eraser Cleaner,77,0.23
+500488,2018-10-17,4,First Class,Canada,L'Île-Perrot,Québec,H9X,Rob Lucas,Avery Flip-Chart Easel Binder,79,0.2
+689734,2018-08-19,18,Expedited,United States,Washington,District of Columbia,20508,Joni Sundaresam,14 7/8 X 11,7,0.38
+77217,2018-10-22,27,Second Class,United States,Austin,Texas,78759,Eva Jacobs,Hon 2090 â€œPillow Softâ€ Series Mid Back Swivel/Tilt Chairs,14,0.09
+552707,2018-09-25,25,Second Class,United States,Bronx,New York,10459,Kunst Miller,Rush Hierlooms Collection 1 Thick Stackable Bookcases,13,0.36
+190572,2018-02-15,4,Second Class,Mexico,Independencia,Nayarit,63136,Alan Haines,iKross Bluetooth Portable Keyboard + Cell Phone Stand Holder + Brush for Apple iPhone 5S 5C 5,27,0.73
+450816,2018-12-19,21,Standard Class,United States,Newark,New Jersey,07104,Brian Derr,Avery Hi-Liter Fluorescent Desk Style Markers,41,0.74
+545425,2018-03-26,29,Second Class,Mexico,San Isidro,Coahuila De Zaragoza,27990,Jill Stevenson,Xerox 1995,4,0.29
+119471,2018-07-26,20,Expedited,United States,Fort Wayne,Indiana,46857,Theresa Swint,Cardinal Slant-D Ring Binder,43,0.2
+138631,2018-06-09,28,First Class,United States,Washington,District of Columbia,20575,Trudy Schmidt,Revere Boxed Rubber Bands by Revere,3,0.5
+805567,2018-11-15,3,Standard Class,Mexico,San Lorenzo,Mexico,56190,Roy Collins,Sensible Storage WireTech Storage Systems,62,0.68
+740491,2018-07-04,28,Expedited,Mexico,Manlio Fabio Altamirano,Veracruz Llave,94970,Laurel Workman,Black,91,0.22
+997906,2018-01-19,3,First Class,United States,Huntington Beach,California,92648,Anthony Rawles,Desert Sand,98,0.11
+849752,2018-05-23,10,Expedited,Canada,Little Current,Ontario,J6A,Sean ODonnell,Snap-A-Way Black Print Carbonless Ruled Speed Letter,8,0.11
+939984,2018-05-11,14,Expedited,United States,Springfield,Massachusetts,01114,Darrin Van Huff,Holmes Cool Mist Humidifier for the Whole House with 8-Gallon Output per Day,15,0.07
+640599,2018-03-03,30,Expedited,United States,Orlando,Florida,32835,Mike Vittorini,Xerox 1942,19,0.68
+987169,2018-09-15,12,First Class,Mexico,San Antonio,Oaxaca,71200,Katherine Murray,Performers Binder/Pad Holder,65,0.68
+541950,2018-11-16,2,Second Class,Mexico,Vista Hermosa,Tamaulipas,87078,Debra Catini,Newell 347,93,0.07
+877122,2018-04-20,30,Second Class,United States,Cheyenne,Wyoming,82007,Dan Reichenbach,Global Leather Executive Chair,3,0.4
+593905,2018-10-24,12,Expedited,United States,San Antonio,Texas,78215,Mike Vittorini,Avery 508,63,0.72
+805948,2018-02-25,9,Standard Class,United States,Van Nuys,California,91406,Joel Eaton,Kensington 7 Outlet MasterPiece HOMEOFFICE Power Control Center,2,0.67
+719976,2018-01-17,2,Second Class,Canada,Campbellton,New Brunswick,E3N,Sarah Brown,Array Parchment Paper,81,0.58
+909310,2018-01-07,27,First Class,United States,Orlando,Florida,32835,Sally Knutson,Dark Blue,18,0.55
+990914,2018-08-05,8,Second Class,Canada,Saint-Félicien,Québec,G8K,Scot Wooten,Putty/Woodgrain,7,0.06
+537331,2018-06-04,3,Standard Class,United States,Young America,Minnesota,55564,Tamara Dahlen,Ooma Telo VoIP Home Phone System,59,0.27
+884117,2018-11-27,25,Second Class,Mexico,Morelos,San Luis Potosi,78130,Hallie Redmond,#10- 4 1/8 x 9 1/2 Recycled Envelopes,41,0.55
+907493,2018-08-05,8,Expedited,Canada,Ormstown,Québec,J0S,Tracy Zic,ACCOHIDE Binder by Acco,19,0.42
+289485,2018-07-19,24,Second Class,Mexico,El Mirador,Mexico,56564,Dennis Pardue,Carina Mini System Audio Rack,80,0.05
+672134,2018-01-24,28,Second Class,United States,Phoenix,Arizona,85010,Juliana Krohn,Xerox 229,1,0.39
+343226,2018-04-08,27,Expedited,Mexico,El Tejocote,Mexico,50625,Tom Stivers,Avery 514,66,0.73
+811408,2018-01-18,2,First Class,Canada,Golden,British Columbia,J9Z,Bryan Mills,Maxell 74 Minute CD-R Spindle,52,0.46
+228812,2018-11-25,9,Expedited,Canada,Havre-Saint-Pierre,Québec,H4R,Michelle Tran,4/Set,5,0.41
+582015,2018-02-02,2,Second Class,United States,Salt Lake City,Utah,84125,Dave Hallsten,Tripp Lite TLP810NET Broadband Surge for Modem/Fax,29,0.15
+746653,2018-08-09,23,Expedited,United States,Washington,District of Columbia,56944,Stuart Van,Recycled Pressboard Report Cover with Reinforced Top Hinge,6,0.45
+480802,2018-04-21,4,Expedited,United States,Santa Fe,New Mexico,87592,Luke Foster,GBC DocuBind P100 Manual Binding Machine,50,0.05
+317082,2018-06-16,22,Second Class,Mexico,Benito Juarez,Durango,35180,Grant Thornton,52 x 58,37,0.46
+444191,2018-06-05,15,Standard Class,Canada,Harbour Breton,Newfoundland and Labrador,M4N,Toby Swindell,13 1/8W x 12 1/4D x 10 1/2H,71,0.22
+132186,2018-12-05,9,First Class,Mexico,Guanajuato,Guanajuato,36780,Stephanie Phelps,Collection System,99,0.09
+681372,2018-06-07,7,Standard Class,United States,Chicago,Illinois,60663,Amy Cox,Avery Durable Poly Binders,39,0.47
+784491,2018-03-02,2,Second Class,Mexico,Lazaro Cardenas,Veracruz Llave,92933,Larry Blacks,KI Conference Tables,78,0.47
+349682,2018-10-03,3,Second Class,Mexico,San Sebastian,Chiapas,29950,Katrina Edelman,Kensington 6 Outlet Guardian Standard Surge Protector,49,0.39
+229797,2018-10-24,20,First Class,Canada,Val-d'Or,Québec,J9P,Alan Shonely,Acme Kleen Earth Office Shears,8,0.39
+523368,2018-02-07,1,Second Class,Mexico,San Martin,Mexico,56199,Jennifer Halladay,Newell 35,64,0.66
+868763,2018-02-21,5,Expedited,United States,Port Washington,New York,11054,Seth Vernon,Black,92,0.01
+493150,2018-08-15,2,Second Class,Canada,Rocky Mountain House,Alberta,T4T,Bart Folk,Yellow,46,0.64
+456146,2018-03-08,11,First Class,Canada,Fredericton,New Brunswick,E3G,John Lucas,3-ring staple pack,51,0.52
+73454,2018-09-16,8,Expedited,United States,Miami,Florida,33169,Neil Knudson,Blue,45,0.07
+470280,2018-10-22,28,First Class,Mexico,Del Valle,Tamaulipas,88980,Rick Huthwaite,Executive Impressions 13-1/2 Indoor/Outdoor Wall Clock,35,0.22
+423220,2018-07-26,28,Second Class,Mexico,Lazaro Cardenas,Veracruz Llave,92933,Sung Chung,Ultimate White,52,0.37
+762078,2018-03-22,5,Standard Class,Mexico,San Sebastian,Oaxaca,69200,Christine Phan,Logitech Wireless Anywhere Mouse MX for PC and Mac,60,0.2
+961301,2018-10-27,6,Second Class,Mexico,Altavista,Chihuahua,32127,Lynn Smith,Seth Thomas 14 Day/Date Wall Clock,4,0.71
+655488,2018-03-12,9,Standard Class,United States,Fresno,California,93715,Ken Heidel,Xerox 213,85,0.62
+226972,2018-04-05,18,First Class,Mexico,Lindavista,Guerrero,40800,Sam Craven,Lip 20 x 11 -90 Degree Angle,75,0.13
+795473,2018-07-28,15,First Class,United States,Seattle,Washington,98109,Tracy Poddar,5 1/4â€ x 11â€,47,0.69
+157544,2018-11-07,26,First Class,United States,Oklahoma City,Oklahoma,73129,Frank Merwin,Riverside Furniture Stanwyck Manor Table Series,17,0.21
+34395,2018-06-26,17,Expedited,Canada,Selkirk,Manitoba,R1A,Cari Sayre,Dixon Ticonderoga Core-Lock Colored Pencils,25,0.18
+917790,2018-03-12,24,Expedited,United States,Saint Paul,Minnesota,55103,Anna Andreadi,BOSTON Model 1800 Electric Pencil Sharpeners,45,0.2
+775658,2018-05-08,15,Standard Class,Canada,Asbestos,Québec,J1T,Justin Deggeller,Super Bands,97,0.49
+518692,2018-01-07,12,Standard Class,United States,Roanoke,Virginia,24048,Ed Braxton,25% Cotton,37,0.75
+998758,2018-04-16,12,Second Class,Canada,Lac-Brome,Québec,L9G,Katherine Hughes,GBC Instant Index System for Binding Systems,96,0.47
+485231,2018-05-19,7,First Class,Mexico,18 de Marzo,Veracruz Llave,93294,Delfina Latchford,Catalog Binders with Expanding Posts,39,0.12
+64365,2018-06-21,13,Second Class,Mexico,San Pedro,Guanajuato,37861,Joel Eaton,Avery Poly Binder Pockets,46,0.7
+774956,2018-12-26,12,Expedited,Canada,Omemee,Ontario,V1E,Linda Southworth,6/Carton,77,0.15
+673604,2018-06-14,30,First Class,Canada,Kerrobert,Saskatchewan,T1P,Andrew Gjertsen,Premier Elliptical Ring Binder,93,0.56
+49058,2018-08-29,24,Second Class,Canada,Montréal-Ouest,Québec,H5B,Matt Collins,9 1/2 x 11,96,0.54
+43596,2018-04-01,3,Expedited,Mexico,Guadalupe,Chiapas,29952,Saphhira Shifley,Bretford CR8500 Series Meeting Room Furniture,45,0.66
+20006,2018-03-15,5,First Class,Canada,Beausejour,Manitoba,M1C,Brad Norvell,Global Value Steno Chair,14,0.55
+361192,2018-02-15,6,Standard Class,Canada,Sainte-Anne-des-Monts,Québec,L8P,Jill Trafton,Plantronics HL10 Handset Lifter,24,0.31
+145844,2018-09-17,2,Second Class,United States,Tulsa,Oklahoma,74193,Lycoris Saunders,Acco Pressboard Covers with Storage Hooks,73,0.58
+83313,2018-06-24,25,First Class,United States,Las Vegas,Nevada,89193,Lauren Leatherbury,Rubbermaid ClusterMat Chairmats,96,0.08
+968776,2018-07-02,26,Standard Class,Canada,Martensville,Saskatchewan,L3R,Ritsa Hightower,Xerox 1985,5,0.69
+671184,2018-09-19,5,First Class,United States,Saint Cloud,Minnesota,56372,Rose OBrian,Putty/Woodgrain,18,0.48
+167241,2018-12-20,9,Second Class,United States,Waco,Texas,76711,Quincy Jones,Avery Hole Reinforcements,86,0.24
+953111,2018-11-19,5,Standard Class,Mexico,Magdaleno Aguilar,Tamaulipas,89355,Tamara Willingham,Avery 494,95,0.02
+896113,2018-12-15,19,First Class,United States,Phoenix,Arizona,85010,Bruce Geld,Xerox 1913,92,0.24
+400879,2018-10-12,20,First Class,United States,Naples,Florida,34108,Andrew Allen,Crimson,26,0.12
+178053,2018-05-04,16,Standard Class,Canada,Lillooet,British Columbia,H9G,Henry Goldwyn,Adjustable Personal File Tote,33,0.39
+544201,2018-10-23,13,Standard Class,Mexico,Independencia,Coahuila De Zaragoza,26830,Christy Brittain,SpineVue Locking Slant-D Ring Binders by Cardinal,91,0.72
+733339,2018-01-03,17,First Class,United States,Columbus,Ohio,43215,Christopher Schild,Black,43,0.38
+384610,2018-05-27,6,Second Class,United States,Washington,District of Columbia,20508,Mark Hamilton,Holmes Replacement Filter for HEPA Air Cleaner,31,0.52
+94808,2018-09-30,25,First Class,Mexico,Providencia,Durango,35364,Alan Dominguez,Premium Transparent Presentation Covers by GBC,2,0.43
+143750,2018-06-02,22,Second Class,Canada,Saint Andrews,New Brunswick,E5B,Joe Kamberova,Maxell 4.7GB DVD-R,78,0.29
+323536,2018-12-20,16,Expedited,United States,Newport Beach,California,92662,Brad Eason,Holmes Replacement Filter for HEPA Air Cleaner,10,0.18
+748431,2018-01-06,23,Expedited,United States,North Little Rock,Arkansas,72199,Roy Skaria,Samsung Galaxy Note 3,24,0.09
+114189,2018-01-15,5,First Class,United States,Erie,Pennsylvania,16505,Alex Avila,Self-Adhesive Ring Binder Labels,48,0.22
+827467,2018-09-25,18,Expedited,United States,Carlsbad,California,92013,Guy Armstrong,VTech DS6151,43,0.01
+972032,2018-09-11,10,Standard Class,Canada,Saint-Ambroise,Québec,G7P,Theresa Swint,Chromcraft Bull-Nose Wood Round Conference Table Top,24,0.28
+281831,2018-12-08,14,Standard Class,Canada,Alma,Québec,N6J,Ashley Jarboe,Desktop,41,0.68
+690051,2018-05-26,9,Second Class,Mexico,Independencia,Nayarit,63136,Philip Brown,1/Pack,64,0.35
+24035,2018-07-03,29,First Class,Mexico,Independencia,Tamaulipas,89888,Emily Ducich,BOSTON Model 1800 Electric Pencil Sharpeners,18,0.68
+503124,2018-04-29,25,Second Class,United States,Oklahoma City,Oklahoma,73124,Bart Watters,Avery 51,54,0.32
+696067,2018-11-27,23,Standard Class,United States,Roanoke,Virginia,24034,Frank Hawley,Logitech Trackman Marble Mouse,28,0.34
+375901,2018-12-23,14,Expedited,Mexico,Vicente Guerrero,Guerrero,40230,Philip Brown,Newell 322,23,0.16
+409716,2018-05-14,16,First Class,Canada,Delaware,Ontario,M3H,Annie Zypern,Navy,3,0.44
+381211,2018-08-21,18,Second Class,Canada,Wabana,Newfoundland and Labrador,V7X,Ben Ferrer,500 Sheets per Pack,62,0.72
+263801,2018-11-06,28,Second Class,United States,Youngstown,Ohio,44505,Corey Catlett,Acco Economy Flexible Poly Round Ring Binder,18,0.65
+321116,2018-01-20,16,Standard Class,United States,Saint Cloud,Minnesota,56372,John Lee,Canon Imageclass D680 Copier / Fax,37,0.17
+399484,2018-05-25,30,Expedited,United States,Tyler,Texas,75799,Pete Kriz,Xerox 1934,56,0.66
+610973,2018-11-27,16,Second Class,Canada,Ajax,Ontario,L1Z,Harold Dahlen,Lesro Sheffield Collection Coffee Table,20,0.1
+704156,2018-08-15,19,Expedited,United States,Indianapolis,Indiana,46295,Anne McFarland,White,53,0.3
+746711,2018-06-24,13,Expedited,United States,Las Vegas,Nevada,89193,Paul Stevenson,Yellow Ink,88,0.18
+762599,2018-05-02,5,Expedited,Canada,Lachute,Québec,J8H,Justin Ellison,American Pencil,60,0.33
+765002,2018-04-25,30,First Class,United States,Pasadena,California,91131,Susan Pistek,9 1/2 x 11,62,0.23
+220369,2018-03-25,18,First Class,United States,Ocala,Florida,34479,David Bremer,Revere Boxed Rubber Bands by Revere,21,0.27
+884969,2018-09-30,13,First Class,Mexico,Luis Donaldo Colosio,Coahuila De Zaragoza,26095,Paul Van Hugh,WD My Passport Ultra 500GB Portable External Hard Drive,80,0.3
+462343,2018-10-18,10,Second Class,Mexico,Tierra y Libertad,Coahuila De Zaragoza,27040,Theresa Swint,RCA Visys Integrated PBX 8-Line Router,100,0.73
+538442,2018-09-27,7,Expedited,United States,Baton Rouge,Louisiana,70826,Anne Pryor,LF Elite 3D Dazzle Designer Hard Case Cover,73,0.55
+300826,2018-11-14,22,Expedited,Mexico,Santa Cruz,Veracruz Llave,92733,Evan Minnotte,Security-Tint Envelopes,62,0.57
+382761,2018-06-15,5,First Class,Mexico,Alameda,Jalisco,45630,Craig Carreira,Dax Clear Box Frame,93,0.14
+427622,2018-11-11,14,Standard Class,United States,Las Vegas,Nevada,89105,Skye Norling,#2 by Central Association for the Blind,65,0.26
+536331,2018-07-12,26,Expedited,Canada,White Rock,British Columbia,V4B,Sandra Flanagan,9 1/2 X 11,98,0.17
+84085,2018-04-08,10,Second Class,United States,Cumming,Georgia,30130,Karen Ferguson,Blackstonian Pencils,19,0.32
+102183,2018-07-02,17,Second Class,United States,Washington,District of Columbia,20409,Michael Moore,Boston Home & Office Model 2000 Electric Pencil Sharpeners,8,0.51
+226122,2018-01-25,9,Second Class,Mexico,Niños Heroes,Oaxaca,68145,Bryan Mills,Belkin 8 Outlet Surge Protector,27,0.59
+153489,2018-01-21,12,Standard Class,United States,Seattle,Washington,98115,Neoma Murray,Filtration Bags,93,0.26
+173679,2018-08-08,24,First Class,Canada,Mont-Joli,Québec,G5H,Mathew Reese,Satellite Sectional Post Binders,67,0.09
+958874,2018-09-14,14,Standard Class,Canada,Selkirk,Manitoba,R1A,Philip Fox,Filtration Bags,63,0.73
+773455,2018-10-17,20,Expedited,Canada,Bay Roberts,Newfoundland and Labrador,V3B,Helen Abelman,Advantus Rolling Drawer Organizers,58,0.4
+692123,2018-04-26,6,Second Class,United States,Rochester,New York,14609,Jane Waco,Logitech G602 Wireless Gaming Mouse,79,0.71
+867475,2018-11-26,16,First Class,Canada,Swift Current,Saskatchewan,S9H,Lindsay Shagiari,Global Deluxe High-Back Managers Chair,77,0.66
+342074,2018-05-20,21,Expedited,United States,Colorado Springs,Colorado,80935,Andy Reiter,SAFCO PlanMaster Heigh-Adjustable Drafting Table Base,69,0.25
+587300,2018-06-25,25,Standard Class,United States,Milwaukee,Wisconsin,53234,Joni Sundaresam,Brown Kraft Recycled Envelopes,23,0.52
+3651,2018-02-26,19,Second Class,Mexico,La Loma,Jalisco,47685,Deanra Eno,Xerox 203,57,0.26
+644270,2018-12-05,20,Expedited,United States,Denver,Colorado,80262,Neil Knudson,HTC One Mini,98,0.15
+743482,2018-02-23,13,First Class,Mexico,Buenavista,Veracruz Llave,94463,Peter Fuller,Acco PRESSTEX Data Binder with Storage Hooks,100,0.71
+64410,2018-10-14,5,Standard Class,United States,Columbus,Ohio,43231,Ralph Kennedy,Redi-Strip #10 Envelopes,63,0.4
+382595,2018-01-10,2,Expedited,United States,Chattanooga,Tennessee,37416,Darren Budd,Dana Halogen Swing-Arm Architect Lamp,59,0.36
+330137,2018-03-30,30,Standard Class,United States,Gary,Indiana,46406,Richard Bierner,Black & Decker Filter for Double Action Dustbuster Cordless Vac BLDV7210,56,0.73
+237310,2018-05-20,7,First Class,Mexico,San Marcos,Guanajuato,36951,Sally Matthias,Stockwell Push Pins,3,0.29
+112636,2018-05-15,21,Expedited,United States,El Paso,Texas,79977,Nancy Lomonaco,Kensington Expert Mouse Optical USB Trackball for PC or Mac,18,0.04
+867849,2018-02-07,15,Standard Class,United States,Cincinnati,Ohio,45296,David Smith,Personal Filing Tote with Lid,83,0.7
+18726,2018-01-04,9,Second Class,United States,Reno,Nevada,89550,Sandra Flanagan,Eldon Image Series Black Desk Accessories,25,0.2
+176038,2018-12-11,25,Second Class,United States,Conroe,Texas,77305,Dianna Vittorini,8 1/2 x 11,11,0.69
+171838,2018-11-04,27,First Class,Mexico,Francisco Villa,Chihuahua,31600,Gary Mitchum,Tenex Carpeted,49,0.06
+712388,2018-04-27,17,Expedited,Canada,Merritt,British Columbia,V1K,Maya Herman,Logitech G700s Rechargeable Gaming Mouse,36,0.27
+844932,2018-03-14,14,First Class,Mexico,Amado Nervo,Nayarit,63455,Andy Gerbode,SAFCO Boltless Steel Shelving,70,0.63
+963518,2018-09-18,14,First Class,United States,Akron,Ohio,44315,Mike Kennedy,Light Blue,93,0.52
+776872,2018-08-03,27,Second Class,United States,Saint Paul,Minnesota,55103,Chris McAfee,White,7,0.66
+771499,2018-03-07,22,First Class,United States,Palatine,Illinois,60078,Henry Goldwyn,Maxell DVD-RAM Discs,68,0.71
+208174,2018-10-31,8,Second Class,Canada,Malartic,Québec,X0G,Bruce Stewart,Acrylic Self-Standing Desk Frames,63,0.2
+800255,2018-10-09,5,First Class,United States,New York City,New York,10270,Alex Avila,Premium Transparent Presentation Covers,67,0.39
+907794,2018-04-18,16,Second Class,Canada,Victoriaville,Québec,G6T,Larry Hughes,DAX Two-Tone Rosewood/Black Document Frame,39,0.06
+231633,2018-06-03,4,Expedited,United States,Atlanta,Georgia,30351,Thomas Brumley,Yellow,31,0.61
+863131,2018-06-14,8,First Class,Mexico,El Refugio,Durango,35488,Bill Stewart,Cardinal Holdit Business Card Pockets,70,0.48
+403928,2018-10-16,8,Expedited,United States,Chicago,Illinois,60604,Jay Fein,DAX Wood Document Frame,18,0.16
+844979,2018-09-03,1,First Class,United States,Fort Smith,Arkansas,72905,Carlos Meador,Black,28,0.37
+10327,2018-02-07,12,Expedited,Mexico,Emiliano Zapata,Michoacan De Ocampo,61607,Rose OBrian,GE DSL Phone Line Filter,17,0.75
+175374,2018-12-16,24,Second Class,United States,London,Kentucky,40745,David Wiener,Situations Contoured Folding Chairs,93,0.41
+36031,2018-06-17,24,First Class,United States,Lexington,Kentucky,40524,James Peterman,Message Book,71,0.72
+600923,2018-02-26,22,First Class,Canada,Ashcroft,British Columbia,L0R,Corey Roper,File Shuttle II and Handi-File,7,0.47
+521444,2018-05-24,22,First Class,United States,Milwaukee,Wisconsin,53225,Alejandro Grove,Avery Trapezoid Extra Heavy Duty 4 Binders,37,0.24
+216323,2018-04-09,11,Expedited,Canada,Windsor,Québec,J1S,Edward Nazzal,Xerox 1924,62,0.71
+970706,2018-07-18,11,First Class,United States,Huntington,West Virginia,25705,Dianna Vittorini,Belkin 7 Outlet SurgeMaster II,62,0.19
+849326,2018-07-23,16,Second Class,United States,Charlotte,North Carolina,28263,Duane Noonan,Storex Dura Pro Binders,4,0.34
+64644,2018-04-02,15,Second Class,United States,Pasadena,California,91103,Kelly Lampkin,3D Systems Cube Printer,90,0.29
+130978,2018-02-20,19,First Class,Mexico,Antonio Toledo Corro,Sinaloa,82153,Jamie Frazer,Dana Halogen Swing-Arm Architect Lamp,19,0.71
+250983,2018-11-27,10,Second Class,Mexico,Vicente Guerrero,Guerrero,39200,Shaun Chance,Sauder Inglewood Library Bookcases,16,0.47
+502332,2018-07-06,7,Expedited,United States,Baltimore,Maryland,21216,Henia Zydlo,Eldon Cleatmat Chair Mats for Medium Pile Carpets,94,0.52
+498062,2018-03-20,22,First Class,United States,Kansas City,Missouri,64187,Matt Hagelstein,100 Messages,97,0.6
+654775,2018-06-29,21,First Class,United States,Seattle,Washington,98175,Cathy Hwang,Memorex Micro Travel Drive 4 GB,68,0.14
+923218,2018-05-10,21,Expedited,United States,Tuscaloosa,Alabama,35487,Alice McCarthy,Smead Adjustable Mobile File Trolley with Lockable Top,49,0.49
+166178,2018-02-24,11,First Class,United States,Saint Petersburg,Florida,33710,Adrian Barton,14,75,0.06
+727429,2018-06-22,13,First Class,United States,San Diego,California,92165,Maribeth Yedwab,GBC Clear Cover,8,0.13
+878540,2018-07-27,1,Standard Class,United States,Cincinnati,Ohio,45249,Lena Hernandez,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,87,0.22
+97989,2018-10-02,30,Second Class,Canada,Saint-Constant,Québec,J5A,Sanjit Chand,Advantus Push Pins,9,0.29
+441314,2018-08-24,7,Standard Class,United States,Phoenix,Arizona,85062,Justin MacKendrick,Harbour Creations Steel Folding Chair,38,0.42
+126315,2018-10-20,24,First Class,United States,Cincinnati,Ohio,45208,Alex Avila,Sanford EarthWrite Recycled Pencils,100,0.45
+542483,2018-06-23,3,Expedited,United States,Vancouver,Washington,98682,Neola Schneider,Spigen Samsung Galaxy S5 Case Wallet,37,0.17
+268094,2018-07-28,3,First Class,United States,Los Angeles,California,90030,Shaun Chance,Eldon Regeneration Recycled Desk Accessories,46,0.1
+336989,2018-08-04,12,Expedited,Mexico,San Pedro,Guanajuato,37861,Roy Phan,Premier Elliptical Ring Binder,27,0.72
+945338,2018-03-25,20,Expedited,United States,Oklahoma City,Oklahoma,73129,Andrew Allen,Newell 317,33,0.33
+653412,2018-01-09,8,Second Class,United States,Chicago,Illinois,60681,Stefanie Holloman,Nu-Dell Float Frame 11 x 14 1/2,82,0.55
+368830,2018-11-14,11,Expedited,United States,Kansas City,Missouri,64190,Brian DeCherney,Extra Strips,79,0.41
+221303,2018-07-04,30,Expedited,United States,Phoenix,Arizona,85053,Anthony Jacobs,Xerox 229,86,0.71
+421696,2018-09-09,26,Expedited,United States,Lafayette,Louisiana,70593,Jay Kimmel,Hon Metal Bookcases,59,0.61
+897262,2018-11-08,21,Second Class,United States,Atlanta,Georgia,31106,Cynthia Arntzen,Hon Every-Day Series Multi-Task Chairs,80,0.46
+723580,2018-10-03,3,First Class,United States,Dallas,Texas,75310,Eva Jacobs,Newell 320,62,0.43
+105399,2018-05-07,18,First Class,United States,Los Angeles,California,90035,Lindsay Williams,200 Sets/Book,83,0.69
+379790,2018-12-30,4,First Class,Mexico,Guadalupe,Veracruz Llave,94590,Joel Jenkins,Staple remover,69,0.56
+440097,2018-09-29,9,Expedited,Mexico,San Miguel,Mexico,51690,Robert Dilbeck,Acco Pressboard Covers with Storage Hooks,25,0.08
+493090,2018-03-03,9,Second Class,United States,San Antonio,Texas,78285,Elpida Rittenbach,Aluminum Head,10,0.23
+944710,2018-12-17,25,Second Class,Canada,Agassiz,British Columbia,B2E,Sanjit Jacobs,Cardinal HOLDit! Binder Insert Strips,23,0.04
+548953,2018-07-27,26,Second Class,United States,Springfield,Massachusetts,01114,Alex Grayson,Wilson Jones 1 Hanging DublLock Ring Binders,100,0.22
+166406,2018-01-15,23,Expedited,United States,Bryan,Texas,77806,Monica Federle,Tennsco Commercial Shelving,24,0.11
+32270,2018-08-31,11,Expedited,United States,Washington,District of Columbia,20409,Peter Fuller,Newell 329,79,0.13
+218308,2018-02-12,18,Second Class,United States,Philadelphia,Pennsylvania,19120,Dan Lawera,Hon Olson Stacker Stools,12,0.5
+522494,2018-09-26,29,Expedited,United States,Lawrenceville,Georgia,30245,Meg OConnel,Sauder Cornerstone Collection Library,99,0.61
+292480,2018-09-04,1,First Class,Mexico,Providencia,Guanajuato,38477,Nora Preis,Globe Weis Peel & Seel First Class Envelopes,7,0.02
+917771,2018-01-04,3,Standard Class,Mexico,La Loma,Jalisco,47685,Stephanie Ulpright,Medium Room,79,0.11
+872204,2018-08-17,8,Second Class,United States,Amarillo,Texas,79105,Ricardo Sperren,Adtran 1202752G1,16,0.32
+724194,2018-08-26,16,Second Class,Canada,Owen Sound,Ontario,N4K,Jill Matthias,13 1/8W x 12 1/4D x 10 1/2H,18,0.3
+216031,2018-03-22,5,Expedited,Canada,Vulcan,Alberta,V6M,Chloris Kastensmidt,400 Sets per Book,97,0.03
+310652,2018-10-24,4,Second Class,United States,Wichita,Kansas,67236,Cathy Hwang,KI Adjustable-Height Table,78,0.34
+100110,2018-02-28,9,Standard Class,Mexico,Camino Real,Jalisco,45306,Sarah Jordon,Avery Legal 4-Ring Binder,3,0.71
+976994,2018-01-31,29,First Class,Canada,Middleton,Nova Scotia,K9V,Matthew Grinstein,Acco Bankers Clasps,95,0.12
+542804,2018-12-17,5,Expedited,Canada,Cache Creek,British Columbia,N1G,Dana Kaydos,Polycom CX300 Desktop Phone USB VoIP phone,51,0.66
+339802,2018-05-29,24,Standard Class,United States,Madison,Wisconsin,53716,George Bell,Premium Writing Pencils,44,0.03
+821395,2018-11-23,7,Expedited,United States,Springfield,Illinois,62705,Filia McAdams,14 7/8 x 11,75,0.2
+816533,2018-05-12,30,First Class,United States,Atlanta,Georgia,30358,Roland Schwarz,12/Pack,49,0.63
+826745,2018-02-18,15,First Class,Canada,Lavaltrie,Québec,J5T,John Murray,Xerox 220,34,0.21
+911775,2018-10-13,12,Standard Class,Mexico,Emiliano Zapata,Michoacan De Ocampo,61607,Clay Ludtke,GE 4 Foot Flourescent Tube,62,0.74
+783299,2018-07-14,19,Standard Class,United States,Waco,Texas,76705,Charles Sheldon,Globe Weis Peel & Seel First Class Envelopes,27,0.21
+141929,2018-05-27,15,Standard Class,Canada,London,Ontario,N6C,Jonathan Doherty,Avery 480,32,0.29
+723425,2018-01-27,27,Expedited,United States,Toledo,Ohio,43656,Pete Kriz,Newell 345,80,0.64
+164709,2018-12-19,15,Expedited,United States,Rochester,Minnesota,55905,Joy Bell-,Grandstream GXP1160 VoIP phone,90,0.66
+301320,2018-12-18,24,Standard Class,United States,New York City,New York,10009,Mike Kennedy,Avery 485,73,0.73
+533928,2018-04-23,10,First Class,United States,El Paso,Texas,88519,Dave Brooks,While You Were Out Pads,84,0.67
+890252,2018-03-17,30,First Class,United States,Oklahoma City,Oklahoma,73173,Art Foster,Acco Pressboard Covers with Storage Hooks,42,0.5
+744695,2018-09-21,3,Second Class,United States,Madison,Wisconsin,53716,Giulietta Weimer,Panasonic KX TS3282B Corded phone,11,0.47
+177921,2018-11-02,20,Expedited,United States,Albuquerque,New Mexico,87105,Darren Powers,1040 sheets,33,0.67
+394494,2018-07-11,13,Expedited,Mexico,Benito Juarez,Coahuila De Zaragoza,27443,Sally Hughsby,Assorted,84,0.35
+281115,2018-10-20,13,Expedited,United States,Anchorage,Alaska,99522,Anna Andreadi,Eldon Mobile Mega Data Cart  Mega Stackable  Add-On Trays,71,0.62
+972412,2018-04-27,13,Standard Class,Canada,Kindersley,Saskatchewan,C1C,Noel Staavos,KI Adjustable-Height Table,71,0.33
+835676,2018-12-18,7,First Class,United States,Omaha,Nebraska,68105,Kelly Andreada,100 Message Capacity,80,0.14
+716395,2018-07-18,9,Expedited,United States,Cincinnati,Ohio,45254,Chad McGuire,Pressboard Data Binders by Wilson Jones,91,0.25
+766678,2018-07-03,19,Expedited,Mexico,La Paz,Oaxaca,71161,Julie Creighton,Acco Clips to Go Binder Clips,51,0.64
+757771,2018-05-22,8,Second Class,United States,New Haven,Connecticut,06510,Christine Phan,Harmony Air Purifier,75,0.24
+541324,2018-07-21,30,Standard Class,Canada,Calgary,Alberta,T3S,Nathan Mautz,Razer Kraken 7.1 Surround Sound Over Ear USB Gaming Headset,88,0.53
+871922,2018-03-02,5,Expedited,United States,Jamaica,New York,11499,Rose OBrian,DIXON Ticonderoga Erasable Checking Pencils,33,0.66
+129101,2018-03-06,10,First Class,Canada,Grand Bank,Newfoundland and Labrador,E8K,Toby Carlisle,Nortel Meridian M3904 Professional Digital phone,53,0.69
+643682,2018-06-15,12,Standard Class,Mexico,La Palma,Hidalgo,42082,Dennis Kane,Jabra SPEAK 410,75,0.38
+464008,2018-12-28,23,Standard Class,Canada,Cochrane,Alberta,T4C,Maxwell Schwartz,WD My Passport Ultra 500GB Portable External Hard Drive,45,0.18
+952708,2018-12-01,11,First Class,United States,Durham,North Carolina,27705,Bradley Nguyen,Model AR050B,55,0.19
+177877,2018-02-12,13,Standard Class,United States,Houston,Texas,77095,Giulietta Weimer,100/Box,26,0.75
+532763,2018-12-08,26,Standard Class,United States,Pasadena,California,91186,Kelly Andreada,100 Watts,77,0.56
+975865,2018-01-11,18,Second Class,United States,Columbia,South Carolina,29220,Lena Radford,Logitech Illuminated Ultrathin Keyboard with Backlighting,61,0.75
+449844,2018-07-21,30,Expedited,Canada,Carleton-sur-Mer,Québec,P0T,Laurel Workman,HEPA Filter,79,0.04
+159056,2018-11-07,16,First Class,United States,Fort Lauderdale,Florida,33355,Jasper Cacioppo,Panasonic KX-TG9541B DECT 6.0 Digital 2-Line Expandable Cordless Phone With Digital Answering System,28,0.12
+843782,2018-08-22,15,First Class,Canada,Roblin,Manitoba,R7N,Mark Cousins,Lip 20 x 11 -90 Degree Angle,80,0.27
+543493,2018-02-12,19,Standard Class,Mexico,Amado Nervo,Nayarit,63455,Guy Phonely,Acco Suede Grain Vinyl Round Ring Binder,61,0.49
+46824,2018-04-08,4,First Class,United States,Louisville,Kentucky,40225,Harry Marie,Cisco SPA525G2 IP Phone - Wireless,29,0.6
+482005,2018-07-13,26,Expedited,United States,New York City,New York,10039,Deirdre Greer,Jawbone MINI JAMBOX Wireless Bluetooth Speaker,85,0.43
+268869,2018-05-05,24,Standard Class,Canada,Houston,British Columbia,T9G,William Brown,Fellowes Neat Ideas Storage Cubes,73,0.11
+23332,2018-11-19,15,First Class,United States,Wichita,Kansas,67210,Georgia Rosenberg,Avery 476,7,0.25
+753533,2018-05-05,12,Second Class,Mexico,Cuauhtemoc,Chihuahua,33102,Claire Gute,Newell 317,21,0.26
+306371,2018-10-20,16,Standard Class,Canada,Chase,British Columbia,H4R,Brian Dahlen,4/Carton,4,0.17
+417522,2018-08-21,4,Standard Class,United States,Trenton,New Jersey,08695,Bart Pistole,Samsung Galaxy Note 3,89,0.38
+998259,2018-04-29,15,Standard Class,United States,Chicago,Illinois,60619,Stewart Visinsky,Plantronics CS 50-USB -Â headsetÂ - Convertible,31,0.27
+989557,2018-11-06,17,Second Class,Canada,Richibucto,New Brunswick,E4W,Edward Nazzal,Pizazz Global Quick File,23,0.55
+442956,2018-08-11,1,Expedited,United States,Lexington,Kentucky,40596,Randy Bradley,GE General Use Halogen Bulbs,93,0.47
+792785,2018-10-14,2,Second Class,United States,Saint Louis,Missouri,63143,Frank Olsen,Advantus Rolling Drawer Organizers,63,0.49
+595320,2018-01-28,18,First Class,Mexico,El Zapote,Guerrero,39949,Tracy Hopkins,Regeneration Desk Collection,8,0.28
+546912,2018-12-08,11,Standard Class,United States,Shreveport,Louisiana,71105,Ricardo Sperren,Portable Personal File Box,18,0.54
+894758,2018-03-01,25,First Class,Mexico,San Isidro,Coahuila De Zaragoza,27990,Rick Bensley,ACCOHIDE 3-Ring Binder,49,0.54
+749196,2018-12-22,28,Expedited,United States,Sioux Falls,South Dakota,57105,Saphhira Shifley,8-1/2 x 11,46,0.62
+687159,2018-05-06,11,Standard Class,Mexico,Independencia,Guanajuato,38260,Jill Trafton,Wilson Jones Ledger-Size,40,0.41
+537668,2018-04-03,10,Standard Class,Canada,Richmond,British Columbia,V6Y,Magdelene Morse,Executive Red,54,0.47
+805935,2018-12-21,8,Expedited,Mexico,El Salitre,Michoacan De Ocampo,58503,Sibella Parks,Memo Book,43,0.69
+216385,2018-11-19,10,Expedited,United States,Sacramento,California,94263,Harold Pawlan,Mahogany,61,0.52
+281990,2018-10-15,16,Second Class,United States,Olympia,Washington,98506,Jeremy Ellison,Motorola Droid Maxx,32,0.62
+42662,2018-07-19,12,Second Class,Mexico,San Isidro,Mexico,54730,Shahid Shariari,Xerox 1921,100,0.69
+495193,2018-08-07,14,Standard Class,Mexico,Manuel Cavazos Lerma,Tamaulipas,88600,Vivian Mathis,Avery 494,74,0.73
+8801,2018-06-21,2,Expedited,Canada,North Bay,Ontario,P1A,Sarah Foster,Dixon My First Ticonderoga Pencil,73,0.24
+667697,2018-05-02,30,Second Class,Canada,South River,Ontario,P3Y,John Huston,SpineVue Locking Slant-D Ring Binders by Cardinal,15,0.16
+797908,2018-12-02,18,Standard Class,Mexico,Juan N Alvarez,Guerrero,39030,Charlotte Melton,Granite-Look or Clear Contemporary Contour Shape Chair Mats,23,0.01
+679204,2018-12-04,27,First Class,Mexico,Guadalupe Victoria,Veracruz Llave,93856,Jennifer Sheldon,Avery Hi-Liter GlideStik Fluorescent Highlighter,56,0.03
+895182,2018-05-20,21,First Class,Canada,Prince Rupert,British Columbia,V8J,Shahid Shariari,Computer Room Manger,23,0.46
+394128,2018-12-17,25,Expedited,United States,Austin,Texas,78726,Sharelle Roach,Triplicate,94,0.2
+824056,2018-01-29,8,Standard Class,Canada,Napierville,Québec,M2N,Corey-Lock,GBC Twin Loop Wire Binding Elements,77,0.63
+570640,2018-07-16,19,Expedited,United States,Mesquite,Texas,75185,David Philippe,SanDisk Ultra 64 GB MicroSDHC Class 10 Memory Card,15,0.05
+567364,2018-03-22,18,Expedited,Canada,High River,Alberta,T1V,Sample Company A,For Use as 4 or 5 14 Cubes,63,0.06
+983975,2018-10-05,5,Standard Class,United States,Shreveport,Louisiana,71137,Ken Brennan,Light Gray,82,0.52
+838812,2018-12-09,23,Expedited,Mexico,Santiago,Mexico,54784,Jane Waco,Logitech Trackman Marble Mouse,91,0.27
+317491,2018-07-16,12,Second Class,United States,Houston,Texas,77240,Kelly Williams,Panasonic KX TS3282B Corded phone,5,0.68
+998732,2018-10-06,22,Standard Class,Mexico,Independencia,Durango,35156,Darren Powers,Fellowes Advanced Computer Series Surge Protectors,77,0.58
+708314,2018-01-07,11,Expedited,Canada,L'Île-Perrot,Québec,H9X,Anna Andreadi,Great White Multi-Use Recycled Paper (20Lb. and 84 Bright),51,0.22
+164786,2018-09-27,21,Standard Class,Mexico,La Escondida,Nuevo Leon,64650,Darren Budd,Safco Wire Cube Shelving System,34,0.04
+245156,2018-01-03,9,Second Class,United States,Zephyrhills,Florida,33543,Dennis Kane,#10- 4 1/8 x 9 1/2 Recycled Envelopes,97,0.06
+930720,2018-10-16,19,Expedited,Mexico,Santa Cecilia,Jalisco,48744,Lisa Ryan,Avery 488,17,0.52
+39606,2018-02-28,10,Second Class,United States,Las Cruces,New Mexico,88006,Craig Yedwab,Eldon Fold N Roll Cart System,90,0.5
+281784,2018-01-05,13,Expedited,United States,Cleveland,Ohio,44105,Sean Christensen,12 Colored Short Pencils,41,0.66
+908540,2018-03-22,8,Second Class,United States,Orlando,Florida,32868,Penelope Sewall,GBC Plastic Binding Combs,44,0.44
+941242,2018-05-12,14,Standard Class,Mexico,Vicente Guerrero,Oaxaca,71122,Roy Skaria,Nontoxic Chalk,31,0.33
+382836,2018-12-05,4,Expedited,United States,Baton Rouge,Louisiana,70894,Patrick Bzostek,Xerox 220,57,0.2
+39325,2018-03-27,4,Expedited,Canada,Claresholm,Alberta,V2T,Lisa Ryan,Blank,3,0.42
+658141,2018-05-05,19,Standard Class,United States,Peoria,Illinois,61635,Candace McMahon,Wilson Jones Suede Grain Vinyl Binders,11,0.46
+74267,2018-10-25,15,First Class,United States,Chicago,Illinois,60614,Tracy Poddar,GBC Laser Imprintable Binding System Covers,99,0.55
+312284,2018-06-17,20,Expedited,United States,Chicago,Illinois,60630,Nick Zandusky,40 Watt,21,0.47
+173540,2018-01-21,10,Second Class,United States,Columbia,Missouri,65211,John Grady,Global Italian Leather Office Chair,36,0.09
+449893,2018-06-21,13,Second Class,United States,Peoria,Illinois,61635,Jennifer Patt,8 1/2 x 11,38,0.38
+978012,2018-09-28,10,Expedited,United States,Lubbock,Texas,79491,Lena Creighton,Avery Hole Reinforcements,97,0.15
+406285,2018-01-13,5,First Class,Canada,Flin Flon,Manitoba,R8A,Angele Hood,Cisco SPA112 2 Port Phone Adapter,31,0.6
+734108,2018-07-07,2,Standard Class,Mexico,Morelos,Morelos,62577,Ralph Kennedy,Hon Pagoda Stacking Chairs,28,0.58
+358913,2018-06-21,14,Expedited,United States,Saint Paul,Minnesota,55103,Elizabeth Moffitt,DataProducts Ampli Magnifier Task Lamp,50,0.65
+26378,2018-07-31,4,Second Class,United States,Colorado Springs,Colorado,80920,Dianna Wilson,Mitel 5320 IP Phone VoIP phone,44,0.22
+248820,2018-12-20,17,First Class,Mexico,Guadalupe,Oaxaca,71605,Bart Watters,Avery Durable Poly Binders,2,0.57
+803893,2018-06-15,24,Expedited,Canada,Saint-Eustache,Québec,J7R,Lauren Leatherbury,Standard Lip,90,0.35
+283495,2018-01-29,11,Second Class,Canada,Duncan,British Columbia,V9L,Steve Chapman,OSullivan Elevations Bookcase,26,0.41
+83708,2018-07-27,11,First Class,United States,Los Angeles,California,90071,Daniel Raglin,Blue,8,0.08
+333802,2018-12-02,21,Expedited,United States,Raleigh,North Carolina,27635,Eugene Moren,Motorola L804,79,0.46
+146338,2018-12-01,11,First Class,Canada,Bedford,Québec,J6W,Linda Cazamias,Acme Design Line 8 Stainless Steel Bent Scissors w/Champagne Handles,18,0.72
+113055,2018-05-27,29,Standard Class,Mexico,San Antonio,Tamaulipas,88710,Jonathan Howell,Personal Folder Holder,59,0.42
+970777,2018-05-03,27,Second Class,United States,Austin,Texas,78769,Katharine Harms,Eldon Delta Triangular Chair Mat,66,0.15
+261865,2018-06-19,15,First Class,United States,Indianapolis,Indiana,46295,Nathan Gelder,Acco 6 Outlet Guardian Basic Surge Suppressor,43,0.68
+884000,2018-12-30,20,Standard Class,Canada,Louiseville,Québec,J5V,Mitch Willingham,GBC Recycled Regency Composition Covers,18,0.18
+231882,2018-09-01,2,Second Class,United States,San Jose,California,95128,Jennifer Ferguson,Belkin 19 Vented Equipment Shelf,10,0.22
+633118,2018-03-17,23,Standard Class,United States,Raleigh,North Carolina,27690,Candace McMahon,2 Belts per Pack,48,0.43
+252314,2018-12-14,5,Second Class,United States,Richmond,Virginia,23285,David Bremer,Mahogany,52,0.09
+914470,2018-05-20,24,Expedited,Canada,Milton,Ontario,L9T,Nora Preis,#2,41,0.62
+260260,2018-12-23,24,Expedited,United States,Nashville,Tennessee,37205,Carlos Daly,Eldon Expressions Desk Accessory,34,0.39
+988196,2018-04-04,11,Expedited,Canada,Alma,Québec,N6J,Tony Chapman,DAX Natural Wood-Tone Poster Frame,66,0.29
+361731,2018-09-01,15,Standard Class,United States,Tulsa,Oklahoma,74116,Michael Granlund,Eldon File Chest Portable File,77,0.43
+939331,2018-11-11,21,Expedited,United States,Pittsburgh,Pennsylvania,15250,Emily Burns,3 Capacity,2,0.48
+439327,2018-09-04,1,First Class,United States,San Angelo,Texas,76905,Barry Weirich,Xerox 1918,64,0.56
+3832,2018-03-03,7,Second Class,United States,Jacksonville,Florida,32230,Maria Zettner,Dax Clear Box Frame,83,0.21
+506207,2018-07-02,12,Expedited,United States,Sacramento,California,94207,Maribeth Dona,Bretford Rectangular Conference Table Tops,68,0.15
+663381,2018-03-31,25,First Class,Mexico,Fovissste,Puebla,75483,Greg Matthias,12/Pack,88,0.55
+428771,2018-01-25,3,First Class,United States,Wilkes Barre,Pennsylvania,18763,Chris McAfee,iKross Bluetooth Portable Keyboard + Cell Phone Stand Holder + Brush for Apple iPhone 5S 5C 5,30,0.51
+23041,2018-08-17,21,Standard Class,United States,Washington,District of Columbia,20566,Adam Bellavance,Clear,31,0.45
+329028,2018-05-17,2,Second Class,Canada,Princeton,British Columbia,V6V,Darrin Martin,1 Bulb per Pack,71,0.15
+656444,2018-05-08,24,Standard Class,United States,Garden Grove,California,92645,Bill Stewart,19w x 6d x 43h,71,0.23
+338523,2018-09-22,23,Standard Class,United States,Fort Lauderdale,Florida,33330,Adrian Hane,HEPA Filter,44,0.6
+177591,2018-06-02,1,Standard Class,United States,Cleveland,Ohio,44185,Russell DAscenzo,Acme Office Executive Series Stainless Steel Trimmers,96,0.08
+953423,2018-05-04,2,Expedited,United States,Seattle,Washington,98185,Michael Stewart,Enermax Briskie RF Wireless Keyboard and Mouse Combo,81,0.01
+276985,2018-04-20,16,Second Class,United States,Newark,New Jersey,07104,Corinna Mitchell,Logitech Trackman Marble Mouse,83,0.47
+484978,2018-04-04,27,First Class,United States,Kansas City,Missouri,64136,Giulietta Dortch,Kingston Digital DataTraveler 32GB USB 2.0,40,0.31
+473471,2018-06-28,27,Second Class,Mexico,Francisco Sarabia,Chiapas,29783,Sonia Cooley,100 Messages,88,0.62
+674827,2018-12-03,11,Expedited,United States,Dayton,Ohio,45432,Toby Swindell,Eldon Regeneration Recycled Desk Accessories,29,0.15
+943520,2018-04-21,19,First Class,United States,Phoenix,Arizona,85010,Alan Shonely,Polycom SoundPoint IP 450 VoIP phone,67,0.62
+627452,2018-09-19,24,Expedited,Canada,Wabana,Newfoundland and Labrador,V7X,Shirley Jackson,OSullivan Elevations Bookcase,99,0.22
+63246,2018-03-04,18,Expedited,Mexico,Vicente Guerrero,Oaxaca,71122,Pete Kriz,Belkin Standard 104 key USB Keyboard,71,0.29
+493910,2018-10-13,15,Standard Class,United States,North Little Rock,Arkansas,72199,Craig Molinari,GBC Laser Imprintable Binding System Covers,96,0.05
+326416,2018-10-28,21,Standard Class,Mexico,El Limon,Guerrero,39271,Chuck Magee,Poly String Tie Envelopes,53,0.44
+372578,2018-08-08,4,Expedited,Mexico,Guadalupe,Michoacan De Ocampo,58880,Chloris Kastensmidt,SanDisk Ultra 16 GB MicroSDHC Class 10 Memory Card,87,0.4
+574057,2018-04-29,3,Second Class,Mexico,Tierra Blanca,Guerrero,40678,Harold Dahlen,With Phone and Remote,11,0.1
+674168,2018-08-09,19,Second Class,Mexico,Lazaro Cardenas,Guerrero,40977,Stephanie Ulpright,Global Leather Executive Chair,55,0.13
+372662,2018-01-17,1,First Class,Canada,Logan Lake,British Columbia,T3S,Patrick Bzostek,Yellow,63,0.54
+358017,2018-03-27,29,Standard Class,Mexico,San Rafael,Michoacan De Ocampo,58910,Thomas Boland,Eureka Recycled Copy Paper 8 1/2 x 11,4,0.71
+922892,2018-04-21,2,Expedited,United States,Sacramento,California,94273,Tiffany House,Things To Do Today Spiral Book,10,0.25
+925792,2018-10-30,28,Second Class,Mexico,San Francisco,Tamaulipas,87504,Eric Barreto,Xerox 1899,78,0.16
+682680,2018-05-25,29,Expedited,United States,Las Vegas,Nevada,89110,Luke Schmidt,Boston 1827 Commercial Additional Cutter,27,0.04
+26068,2018-07-11,20,Second Class,Mexico,Emiliano Zapata,Baja California,21460,Adrian Shami,Commercial WindTunnel Clean Air Upright Vacuum,96,0.27
+949236,2018-01-29,10,First Class,United States,Atlanta,Georgia,30316,Mary Zewe,Advantus Plastic Paper Clips,85,0.16
+612779,2018-10-12,22,First Class,United States,Minneapolis,Minnesota,55441,Doug OConnell,#2,57,0.56
+901428,2018-11-04,3,First Class,Canada,Albanel,Québec,G8M,Suzanne McNair,Wilson Jones Ledger-Size,79,0.22
+513125,2018-01-02,17,First Class,Canada,Omemee,Ontario,V1E,Lindsay Williams,Holmes Replacement Filter for HEPA Air Cleaner,24,0.56
+551063,2018-02-05,18,Second Class,United States,Santa Monica,California,90410,Janet Lee,Barricks 18 x 48 Non-Folding Utility Table with Bottom Storage Shelf,11,0.02
+400796,2018-02-28,19,Second Class,Mexico,Buenos Aires,Veracruz Llave,93380,Duane Noonan,Polycom SoundPoint IP 450 VoIP phone,70,0.54
+741988,2018-01-18,3,First Class,United States,Washington,District of Columbia,20566,Philisse Overcash,Dixon Prang Watercolor Pencils,80,0.11
+531815,2018-05-09,29,Second Class,Canada,Spirit River,Alberta,V2G,Cindy Schnelling,Xerox 1967,90,0.02
+831173,2018-11-04,7,First Class,United States,Waterbury,Connecticut,06721,Alan Haines,Sauder Inglewood Library Bookcases,17,0.24
+15485,2018-08-28,27,Second Class,United States,Lafayette,Louisiana,70593,Saphhira Shifley,Light Blue,46,0.17
+76855,2018-06-23,20,Expedited,Canada,Amos,Québec,J9T,Sanjit Engle,OSullivan Living Dimensions 5-Shelf Bookcases,62,0.16
+453214,2018-11-13,4,Standard Class,Canada,Lacombe,Alberta,T4L,Emily Ducich,Hon Multipurpose Stacking Arm Chairs,46,0.7
+939730,2018-01-06,10,First Class,Canada,Renfrew,Ontario,K7V,Gary Hansen,Rigid 75 Pt. Covers,60,0.07
+305950,2018-11-18,24,Second Class,United States,Brooklyn,New York,11205,Anna Gayman,Bretford Rectangular Conference Table Tops,31,0.56
+702962,2018-12-09,28,Standard Class,United States,Round Rock,Texas,78682,Helen Wasserman,Yellow,17,0.21
+643959,2018-10-10,19,Standard Class,United States,Nashville,Tennessee,37205,Brooke Gillingham,Executive Impressions 13 Clairmont Wall Clock,24,0.2
+461565,2018-06-02,10,Standard Class,Mexico,Niños Heroes,Tamaulipas,89359,Don Miller,400 Message Capacity,14,0.17
+963057,2018-07-04,5,Expedited,United States,Waterbury,Connecticut,06721,Brendan Dodson,Poly String Tie Envelopes,10,0.01
+984494,2018-05-28,3,Standard Class,United States,Erie,Pennsylvania,16550,Steve Chapman,Memorex Froggy Flash Drive 4 GB,19,0.38
+211516,2018-01-20,8,First Class,United States,Las Vegas,Nevada,89193,Mary Zewe,Eldon ProFile File N Store Portable File Tub Letter/Legal Size Black,98,0.39
+198783,2018-09-11,5,Expedited,Mexico,Santa Rosa,Veracruz Llave,96556,Carl Jackson,200 Dupl. Sets/Book,78,0.7
+380115,2018-03-14,8,Second Class,United States,Boise,Idaho,83727,Ritsa Hightower,Binder Clips by OIC,72,0.56
+893764,2018-05-01,7,Expedited,Canada,Whistler,British Columbia,N0K,Justin Hirsh,400 Messages per Book,11,0.44
+380995,2018-11-03,4,Standard Class,United States,Murfreesboro,Tennessee,37131,Katrina Edelman,Situations Contoured Folding Chairs,13,0.17
+112942,2018-09-02,9,Second Class,Mexico,La Cruz,Jalisco,47707,Dianna Wilson,Texas Instruments TI-34 Scientific Calculator,2,0.5
+554646,2018-09-07,13,Standard Class,United States,Tulsa,Oklahoma,74193,Lauren Leatherbury,Xerox 1947,96,0.27
+75227,2018-04-03,20,First Class,Canada,Grand Bank,Newfoundland and Labrador,E8K,Katherine Hughes,Howard Miller 11-1/2 Diameter Grantwood Wall Clock,37,0.04
+535027,2018-02-25,15,First Class,Mexico,Benito Juarez,Chihuahua,31770,Guy Armstrong,Round Specialty Laser Printer Labels,76,0.04
+788153,2018-11-01,3,Expedited,United States,Fresno,California,93715,Dianna Wilson,Avery 506,87,0.49
+983936,2018-03-06,12,Second Class,United States,Jacksonville,Florida,32236,Jennifer Ferguson,Rubbermaid ClusterMat Chairmats,85,0.04
+361943,2018-12-27,15,Expedited,Mexico,Emiliano Zapata,Chihuahua,32883,Dionis Lloyd,Holmes Odor Grabber,26,0.18
+826972,2018-02-01,27,Second Class,United States,Palatine,Illinois,60078,Marc Crier,GBC Recycled Grain Textured Covers,64,0.66
+296043,2018-05-04,24,Standard Class,United States,Philadelphia,Pennsylvania,19141,John Murray,Xerox 1899,54,0.55
+313400,2018-08-04,10,First Class,Canada,Mont-Joli,Québec,G5H,Jim Epp,OSullivan 4-Shelf Bookcase in Odessa Pine,64,0.0
+272081,2018-08-02,2,Second Class,United States,Oklahoma City,Oklahoma,73167,Michael Knudson,With Phone and Remote,34,0.28
+505055,2018-07-18,29,Expedited,United States,Austin,Texas,78759,Carol Triggs,Euro-Pro Shark Turbo Vacuum,42,0.62
+641497,2018-08-26,22,Expedited,United States,Springfield,Missouri,65898,Eileen Kiefer,Adams Telephone Message Books,10,0.35
+878743,2018-10-01,17,Second Class,Canada,Parry Sound,Ontario,P2A,Nora Paige,Belkin 8 Outlet Surge Protector,38,0.62
+178651,2018-01-26,25,Second Class,Mexico,Guadalupe,San Luis Potosi,78786,Thomas Brumley,Xerox 1918,6,0.07
+246340,2018-01-01,15,Second Class,United States,Toledo,Ohio,43605,Frank Gastineau,Avery File Folder Labels,99,0.17
+230155,2018-10-14,4,Second Class,Mexico,Lazaro Cardenas,Tabasco,86723,Philip Fox,Clear Mylar Reinforcing Strips,9,0.69
+17655,2018-09-04,25,Standard Class,United States,Houston,Texas,77293,Sara Luxemburg,Beige,18,0.22
+995039,2018-02-02,12,Second Class,United States,South Bend,Indiana,46620,Jay Kimmel,Avery Durable Binders,65,0.46
+623826,2018-04-05,27,Second Class,United States,Fort Lauderdale,Florida,33330,Tom Stivers,Bevis Traditional Conference Table Top,70,0.68
+754708,2018-02-03,21,Standard Class,Mexico,Tierra y Libertad,Chihuahua,32628,Vivek Grady,High Speed Automatic Electric Letter Opener,77,0.47
+193874,2018-11-14,2,First Class,Canada,Vaudreuil-Dorion,Québec,J7W,Bruce Stewart,Green Canvas Binder for 8-1/2 x 14 Sheets,86,0.74
+491925,2018-07-07,11,Second Class,Canada,Melita,Manitoba,M5L,Carol Darley,GE DSL Phone Line Filter,57,0.13
+414383,2018-07-19,13,Standard Class,Mexico,Santa Cruz,Veracruz Llave,92733,Joy Daniels,GBC ProClick Punch Binding System,17,0.35
+835034,2018-08-03,4,Second Class,Canada,Papineauville,Québec,G5N,Grace Kelly,Avery 516,89,0.22
+74270,2018-01-08,18,Expedited,United States,Oklahoma City,Oklahoma,73173,Paul Gonzalez,Acco Pressboard Covers with Storage Hooks,22,0.06
+360598,2018-12-04,24,Second Class,Mexico,Emiliano Zapata,Chiapas,30840,Rob Lucas,Master Caster Door Stop,15,0.16
+54707,2018-06-04,11,Standard Class,Mexico,El Porvenir,Chiapas,29920,Kean Thornton,Ibico Standard Transparent Covers,60,0.69
+812107,2018-01-31,13,Second Class,United States,Cumming,Georgia,30130,Astrea Jones,Lifetime Advantage Folding Chairs,6,0.23
+298195,2018-10-23,5,Second Class,United States,Florence,South Carolina,29505,Peter Fuller,Presstex Flexible Ring Binders,100,0.6
+302406,2018-10-23,13,Second Class,Canada,L'Assomption,Québec,J5W,Sarah Brown,50/Pack,44,0.29
+267909,2018-11-20,9,Standard Class,Canada,Coaticook,Québec,J1A,Jessica Myrick,Hypercom P1300 Pinpad,75,0.69
+994276,2018-03-09,15,First Class,United States,El Paso,Texas,79934,Corey-Lock,Global Leather Executive Chair,52,0.35
+268501,2018-08-30,29,Second Class,Canada,Windsor,Ontario,J1S,Richard Bierner,Black,31,0.64
+725677,2018-10-06,29,First Class,Canada,Sainte-Thérèse,Québec,J7G,Ross Baird,Hon Multipurpose Stacking Arm Chairs,11,0.05
+142126,2018-04-28,18,Second Class,Canada,Acton Vale,Québec,G0E,Pauline Johnson,Avery Premier Heavy-Duty Binder with Round Locking Rings,80,0.38
+703393,2018-05-17,6,Expedited,Mexico,Chapultepec,Veracruz Llave,95600,Mark Van Huff,Hon Deluxe Fabric Upholstered Stacking Chairs,23,0.27
+785981,2018-04-06,6,Second Class,United States,Sterling,Virginia,20167,Mitch Webber,GBC DocuBind P100 Manual Binding Machine,46,0.05
+523634,2018-10-17,20,Standard Class,Mexico,Benito Juarez,Sonora,84015,Erica Bern,Avery 499,57,0.58
+66013,2018-12-08,10,Standard Class,United States,Charleston,West Virginia,25331,Xylona Preis,Acme Serrated Blade Letter Opener,68,0.47
+714091,2018-06-01,18,Standard Class,United States,Philadelphia,Pennsylvania,19104,Anna Gayman,Xerox 1940,47,0.19
+742773,2018-07-01,15,Expedited,Mexico,San Rafael,Guerrero,41640,Andrew Allen,White,57,0.31
+177096,2018-08-24,30,Standard Class,United States,Gatesville,Texas,76598,Lena Creighton,invisibleSHIELD by ZAGG Smudge-Free Screen Protector,36,0.23
+19619,2018-10-17,8,Standard Class,United States,Pittsburgh,Pennsylvania,15255,Dean Braden,Mophie Juice Pack Helium for iPhone,17,0.63
+57723,2018-01-10,11,Expedited,Mexico,San Antonio,San Luis Potosi,78436,Christopher Martinez,8-1/2 x 11,59,0.04
+848383,2018-08-20,9,First Class,United States,San Diego,California,92110,Harry Greene,Hon 30 x 60 Table with Locking Drawer,94,0.35
+47922,2018-11-22,15,Standard Class,United States,Tuscaloosa,Alabama,35487,Larry Blacks,Zebra Zazzle Fluorescent Highlighters,43,0.49
+423180,2018-02-23,9,Second Class,United States,Stamford,Connecticut,06905,Nat Gilpin,Xerox 1925,45,0.49
+370724,2018-12-18,7,Second Class,United States,Whittier,California,90605,Sharelle Roach,Kingston Digital DataTraveler 32GB USB 2.0,44,0.18
+115535,2018-09-22,14,Second Class,United States,Chicago,Illinois,60686,Neola Schneider,100 Messages,85,0.48
+362426,2018-03-10,28,Expedited,United States,Hyattsville,Maryland,20784,Toby Braunhardt,Wilson Jones 1 Hanging DublLock Ring Binders,15,0.54
+806397,2018-04-16,26,Expedited,Canada,Logan Lake,British Columbia,T3S,Mary Zewe,SlimView Poly Binder,63,0.41
+724053,2018-09-13,21,Standard Class,Mexico,El Capulin,Mexico,56568,Corey Catlett,4 per Page,19,0.29
+64019,2018-09-25,20,Second Class,United States,Baton Rouge,Louisiana,70894,Guy Phonely,Dixon Prang Watercolor Pencils,70,0.16
+208939,2018-10-05,8,First Class,Canada,Irricana,Alberta,B3T,Magdelene Morse,Cisco TelePresence System EX90 Videoconferencing Unit,71,0.28
+906941,2018-04-21,27,Expedited,Canada,Saint-André-Avellin,Québec,T5Y,Ritsa Hightower,25/Bx,6,0.05
+643516,2018-10-04,27,Expedited,Canada,L'Épiphanie,Québec,J5X,Anne Pryor,11 x 14-7/8,15,0.49
+4124,2018-02-10,27,Expedited,Canada,Nakusp,British Columbia,H9A,Paul Knutson,Xerox 1898,54,0.58
+434540,2018-02-02,30,Expedited,United States,Austin,Texas,78703,Max Jones,Avery 492,69,0.14
+159794,2018-09-19,14,Standard Class,Canada,Richmond,Québec,V6Z,Joe Kamberova,Revere Boxed Rubber Bands by Revere,93,0.28
+179186,2018-10-10,13,First Class,Mexico,Los Pinos,Guanajuato,36780,Michelle Tran,Xerox 1949,70,0.61
+371201,2018-12-12,30,First Class,Mexico,Lazaro Cardenas,Baja California,22510,Jay Kimmel,SANFORD Major Accent Highlighters,78,0.63
+62397,2018-03-18,26,Standard Class,Canada,Lac du Bonnet,Manitoba,H4S,Michael Kennedy,White,6,0.16
+690374,2018-01-29,20,Expedited,Canada,Altona,Manitoba,K1W,Dan Campbell,Replacement Belts,33,0.24
+971872,2018-06-06,3,Second Class,Canada,Sechelt,British Columbia,K1B,Matt Abelman,Maxell 4.7GB DVD-RW 3/Pack,82,0.6
+882919,2018-02-12,11,First Class,Canada,Virden,Manitoba,J5V,Kelly Andreada,Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc,44,0.48
+804261,2018-02-08,29,First Class,Canada,Bancroft,Ontario,S4X,Maria Zettner,Ibico Standard Transparent Covers,52,0.57
+650017,2018-05-31,19,Standard Class,United States,Simi Valley,California,93094,Evan Minnotte,Avery 499,97,0.3
+744948,2018-02-17,3,Expedited,Canada,Maple Creek,Saskatchewan,P3L,Mark Hamilton,Acco 6 Outlet Guardian Premium Surge Suppressor,41,0.37
+520897,2018-06-03,6,Expedited,Mexico,Emiliano Zapata,Veracruz Llave,91560,Alex Avila,WD My Passport Ultra 500GB Portable External Hard Drive,44,0.08
+856493,2018-09-25,4,First Class,United States,Miami,Florida,33147,Justin Deggeller,Xerox 189,50,0.65
+571216,2018-11-02,7,Standard Class,United States,Austin,Texas,78759,Dennis Pardue,Avery 485,71,0.44
+481018,2018-05-03,28,First Class,Canada,Hantsport,Nova Scotia,N5A,Bill Donatelli,Okidata C331dn Printer,18,0.74
+467665,2018-06-29,11,Expedited,Canada,Smithers,British Columbia,P3N,Darrin Martin,White,39,0.14
+5022,2018-10-02,30,Expedited,United States,Las Vegas,Nevada,89110,Fred McMath,Avery Durable Binders,32,0.09
+688091,2018-08-08,2,Second Class,United States,New York City,New York,10125,Arthur Wiediger,Xerox 1971,45,0.67
+269194,2018-01-26,16,Standard Class,Canada,Nanton,Alberta,L5M,Claire Gute,Avery Durable Plastic 1 Binders,42,0.66
+265027,2018-03-19,5,First Class,Canada,Charlemagne,Québec,J6V,Mathew Reese,8-1/2 x 11,50,0.69
+546002,2018-05-10,25,First Class,United States,Las Vegas,Nevada,89193,Tonja Turnell,Brown,65,0.69
+516493,2018-09-07,21,First Class,United States,Portland,Oregon,97271,Don Jones,Avery 492,53,0.22
+298078,2018-01-25,14,First Class,Canada,Notre-Dame-de-l'Île-Perrot,Québec,H9X,Corinna Mitchell,Newell 322,5,0.61
+175733,2018-12-27,10,Standard Class,Mexico,El Paraiso,Guerrero,40050,Sung Pak,Ultra Door Pull Handle,51,0.58
+671481,2018-03-24,16,Standard Class,United States,Houston,Texas,77281,Brosina Hoffman,Turquoise Lead Holder with Pocket Clip,23,0.25
+127826,2018-11-02,13,Expedited,Mexico,Parque Industrial,Sonora,83553,Joel Eaton,Xerox 1972,14,0.68
+909957,2018-10-05,2,Second Class,Canada,Wingham,Ontario,T5K,Scott Williamson,Xerox 1941,61,0.72
+4177,2018-11-03,13,Standard Class,Canada,Markham,Ontario,L6E,Brenda Bowman,Howard Miller 14-1/2 Diameter Chrome Round Wall Clock,38,0.09
+621440,2018-03-14,25,Second Class,Mexico,La Purisima,Guanajuato,36200,Tamara Chand,Logitech M510 Wireless Mouse,44,0.02
+662501,2018-04-13,13,First Class,Mexico,Guadalupe,Oaxaca,70533,Henry Goldwyn,Newell 335,56,0.42
+72679,2018-09-12,3,Expedited,Canada,Oromocto,New Brunswick,E2V,Denise Monton,Newell 335,87,0.55
+617184,2018-12-05,12,Second Class,Canada,Toronto,Ontario,M7A,Darrin Van Huff,SAFCO PlanMaster Boards,79,0.06
+222684,2018-09-06,21,First Class,Canada,Malartic,Québec,X0G,Eileen Kiefer,Xerox 1945,48,0.59
+209442,2018-05-10,18,Standard Class,Canada,Waterloo,Ontario,N2L,Deborah Brumfield,C-Line Cubicle Keepers Polyproplyene Holder w/Velcro Back,74,0.04
+894503,2018-10-05,21,Expedited,Mexico,Santo Tomas,Mexico,54783,Katrina Willman,Button-String,39,0.26
+101632,2018-02-09,23,Standard Class,United States,Gainesville,Florida,32605,Peter Fuller,Avery 49,5,0.52
+725497,2018-02-15,18,Second Class,Canada,Magrath,Alberta,J7G,MaryBeth Skach,Xerox 1941,59,0.29
+216466,2018-02-02,1,First Class,United States,Pittsburgh,Pennsylvania,15220,Alex Avila,8 1/2 x 11,46,0.07
+393066,2018-03-09,19,Second Class,United States,San Antonio,Texas,78215,Jane Waco,Logitech ClearChat Comfort/USB Headset H390,61,0.49
+717784,2018-04-02,2,First Class,Canada,Senneterre,Québec,L0P,Mark Packer,14,78,0.13
+801711,2018-03-07,10,First Class,Canada,Vulcan,Alberta,V6M,Brian Thompson,40 Watt,93,0.38
+718946,2018-02-21,21,Second Class,United States,Naples,Florida,34108,Kean Takahito,Fellowes Basic Home/Office Series Surge Protectors,63,0.18
+49785,2018-11-15,20,Standard Class,Canada,Saint-Bruno,Québec,J3V,Julia Barnett,White,30,0.24
+519698,2018-11-11,29,Second Class,Mexico,Vista Hermosa,Guerrero,39130,Darrin Martin,Harmony Air Purifier,17,0.15
+621942,2018-10-13,26,Second Class,United States,Jamaica,New York,11499,Lena Hernandez,Global Comet Stacking Armless Chair,4,0.34
+503797,2018-09-21,25,First Class,Mexico,La Gloria,Veracruz Llave,93826,Grace Kelly,I Needs 3d Hello Kitty Hybrid Silicone Case Cover for HTC One X 4g with 3d Hello Kitty Stylus Pen Green/pink,34,0.63
+862802,2018-01-21,25,Standard Class,Canada,Stony Plain,Alberta,T7Z,Heather Kirkland,SlimView Poly Binder,93,0.64
+32828,2018-08-12,16,First Class,Mexico,Rancho Nuevo,San Luis Potosi,78430,Cathy Armstrong,Wilson Jones Clip & Carry Folder Binder Tool for Ring Binders,23,0.49
+950994,2018-11-29,10,First Class,Canada,Revelstoke,British Columbia,H9K,Sanjit Chand,Crimson,21,0.22
+982907,2018-02-03,16,Standard Class,Mexico,La Paz,Oaxaca,71161,Sean Miller,11 X 8 1/2,5,0.32
+707879,2018-09-06,20,First Class,Mexico,Melchor Ocampo,Michoacan De Ocampo,61910,Chris Cortes,Replacement Belts,59,0.18
+337542,2018-10-28,11,First Class,Canada,Acton Vale,Québec,G0E,Carl Weiss,Advantus Motivational Note Cards,7,0.5
+359933,2018-12-25,25,Expedited,Canada,Little Current,Ontario,J6A,Dan Reichenbach,8-Color Set,57,0.01
+25955,2018-12-09,7,Standard Class,Canada,Nelson,British Columbia,V1L,Duane Benoit,Acme Forged Steel Scissors with Black Enamel Handles,78,0.64
+515357,2018-12-18,6,First Class,Canada,Berthierville,Québec,S3N,Dario Medina,Alliance Big Bands Rubber Bands,50,0.35
+231638,2018-12-24,5,Expedited,United States,Jeffersonville,Indiana,47134,Michelle Tran,Master Caster Door Stop,64,0.13
+593878,2018-01-29,27,Expedited,United States,New Brunswick,New Jersey,08922,Phillip Breyer,LF Elite 3D Dazzle Designer Hard Case Cover,81,0.48
+325778,2018-06-24,9,First Class,Canada,Edson,Alberta,T7E,Dan Campbell,Advantus Panel Wall Acrylic Frame,42,0.04
+718526,2018-02-21,10,Second Class,Mexico,Chapultepec,Veracruz Llave,95600,Carol Triggs,Two 4 1/4 x 5 Forms per Page,50,0.62
+823223,2018-12-19,24,Standard Class,United States,Annapolis,Maryland,21405,Sanjit Engle,Soft,45,0.69
+302587,2018-08-19,4,Expedited,United States,Seattle,Washington,98195,Harry Olson,SanDisk Cruzer 64 GB USB Flash Drive,1,0.32
+414238,2018-05-26,4,Standard Class,Mexico,San Jose,Chihuahua,33856,Shui Tom,Acco Smartsocket Table Surge Protector,100,0.39
+575759,2018-05-14,15,First Class,United States,Richmond,Virginia,23272,Emily Grady,Cisco 8x8 Inc. 6753i IP Business Phone System,73,0.45
+888434,2018-05-15,15,Standard Class,United States,Greensboro,North Carolina,27415,William Brown,Panasonic Kx-TS550,84,0.5
+828980,2018-05-03,19,First Class,Canada,Neebing,Ontario,P7L,Robert Waldorf,Padded Folding Chairs,66,0.37
+927039,2018-03-08,7,Expedited,United States,Naples,Florida,34108,Michael Paige,High Speed Automatic Electric Letter Opener,65,0.21
+683245,2018-10-06,25,Second Class,United States,Roanoke,Virginia,24009,Robert Dilbeck,Message Book,42,0.6
+2912,2018-03-08,10,First Class,United States,Tucson,Arizona,85705,Dorothy Dickinson,Newell 35,10,0.24
+773254,2018-03-17,30,First Class,United States,Orlando,Florida,32885,Ricardo Sperren,GBC Prestige Therm-A-Bind Covers,18,0.33
+561266,2018-09-06,20,First Class,United States,San Antonio,Texas,78278,Jim Radford,Riverside Furniture Stanwyck Manor Table Series,14,0.5
+514421,2018-11-19,19,Expedited,Mexico,San Jose,Hidalgo,43161,Stewart Visinsky,GBC Instant Index System for Binding Systems,71,0.48
+732787,2018-04-03,3,Second Class,United States,Charlottesville,Virginia,22908,Michael Kennedy,RCA Visys Integrated PBX 8-Line Router,48,0.74
+307395,2018-01-27,7,Expedited,Mexico,Obrera,Tamaulipas,88680,Suzanne McNair,Eldon Portable Mobile Manager,35,0.64
+370981,2018-01-11,23,Standard Class,United States,Corpus Christi,Texas,78410,Kelly Collister,GBC DocuBind 200 Manual Binding Machine,68,0.4
+433262,2018-11-07,20,Expedited,United States,Atlanta,Georgia,31119,MaryBeth Skach,Nu-Dell Float Frame 11 x 14 1/2,49,0.3
+207286,2018-05-09,11,Expedited,Mexico,Niños Heroes,Jalisco,47070,Jonathan Doherty,Phone,79,0.67
+898550,2018-06-01,18,Second Class,Canada,Abbotsford,British Columbia,L9T,Guy Phonely,100 Watts,99,0.07
+646434,2018-12-28,19,Expedited,Mexico,San Isidro,Durango,35156,Max Ludwig,Binney & Smith inkTank Desk Highlighter,82,0.73
+88968,2018-03-19,12,Second Class,United States,Cincinnati,Ohio,45999,Pete Armstrong,Sanford EarthWrite Recycled Pencils,39,0.41
+344492,2018-09-01,13,First Class,United States,Miami,Florida,33129,Corey-Lock,Bionaire Personal Warm Mist Humidifier/Vaporizer,100,0.43
+904968,2018-05-30,26,Second Class,Canada,Mississauga,Ontario,L5W,Deirdre Greer,10/Pack,2,0.13
+491116,2018-02-28,5,Second Class,United States,Roanoke,Virginia,24034,Bradley Nguyen,Panasonic KX T7731-B Digital phone,41,0.67
+971459,2018-05-10,10,First Class,Canada,Blackfalds,Alberta,J5K,Michael Moore,200 Dupl. Sets/Book,33,0.21
+904506,2018-07-31,17,Expedited,Canada,Saint-Rémi,Québec,K1G,Fred Harton,Chisel Tip,67,0.26
+614511,2018-04-25,16,First Class,United States,Topeka,Kansas,66622,Neola Schneider,Premium Transparent Presentation Covers by GBC,46,0.16
+146557,2018-04-08,6,Second Class,Canada,Minnedosa,Manitoba,N3E,Justin Hirsh,Acco PRESSTEX Data Binder with Storage Hooks,32,0.47
+573709,2018-03-20,19,Expedited,Canada,Kitimat,British Columbia,V8C,Joni Sundaresam,Global Troy Executive Leather Low-Back Tilter,56,0.54
+695378,2018-11-02,18,First Class,United States,Denver,Colorado,80279,Charlotte Melton,40 Watt,89,0.6
+750638,2018-03-10,21,Standard Class,Canada,Otterburn Park,Québec,L6G,Philisse Overcash,Hon 2111 Invitation Series Corner Table,28,0.64
+747843,2018-04-28,5,First Class,Mexico,Emiliano Zapata,Veracruz Llave,92773,Pierre Wener,Apple iPhone 5,82,0.5
+954832,2018-05-29,2,Second Class,Canada,Saskatoon,Saskatchewan,S7W,Helen Abelman,Xerox 1942,50,0.38
+174796,2018-03-28,28,Second Class,Canada,Maniwaki,Québec,J9E,Greg Maxwell,Executive Red,64,0.04
+601415,2018-05-14,30,Second Class,Canada,Mont-Joli,Québec,G5H,Ken Brennan,Self-Adhesive Address Labels for Typewriters by Universal,19,0.08
+322295,2018-09-15,21,Second Class,United States,San Jose,California,95194,Alan Haines,Eldon Expressions Wood and Plastic Desk Accessories,82,0.74
+618118,2018-09-12,26,Expedited,Canada,Parrsboro,Nova Scotia,L2A,Emily Grady,Avery 483,17,0.03
+435470,2018-09-03,25,Standard Class,Canada,Little Current,Ontario,J6A,Robert Marley,Bevis Round Conference Table Top & Single Column Base,60,0.11
+609711,2018-01-24,24,Standard Class,United States,Biloxi,Mississippi,39534,Rick Reed,4009 Highlighters by Sanford,3,0.14
+353156,2018-04-03,13,Second Class,United States,New Orleans,Louisiana,70187,Nancy Lomonaco,Kensington 7 Outlet MasterPiece Power Center,43,0.55
+587116,2018-11-20,17,Second Class,United States,Battle Creek,Michigan,49018,Erica Bern,Avery 51,70,0.3
+74394,2018-09-20,11,Standard Class,United States,Philadelphia,Pennsylvania,19141,James Galang,KeyTronicÂ KT400U2 -Â KeyboardÂ - Black,75,0.57
+330597,2018-01-09,27,Second Class,United States,Jamaica,New York,11470,Eugene Moren,Boston 1827 Commercial Additional Cutter,68,0.25
+487857,2018-08-11,21,Second Class,Mexico,Antonio Toledo Corro,Sinaloa,82153,Arthur Prichep,wired,92,0.02
+710755,2018-09-17,26,First Class,Mexico,San Rafael,Guerrero,41640,Shui Tom,12/Pack,66,0.72
+490191,2018-11-27,11,Standard Class,United States,New York City,New York,10009,Kelly Williams,GBC Plastic Binding Combs,90,0.74
+444918,2018-02-26,11,First Class,Mexico,Lazaro Cardenas,Coahuila De Zaragoza,27944,Heather Kirkland,Prismacolor Color Pencil Set,63,0.58
+869723,2018-05-31,30,Expedited,Canada,Skatepark,Ontario,K7R,Mark Haberlin,Advantus Push Pins,7,0.7
+499044,2018-05-11,26,Second Class,United States,Saint Louis,Missouri,63169,Evan Minnotte,X-Base,67,0.54
+273130,2018-09-01,9,Expedited,Canada,Meadow Lake,Saskatchewan,S9X,Maya Herman,SanDisk Cruzer 16 GB USB Flash Drive,18,0.69
+156486,2018-05-13,24,Second Class,United States,Beaufort,South Carolina,29905,Randy Bradley,Acco Four Pocket Poly Ring Binder with Label Holder,72,0.08
+259141,2018-02-02,9,First Class,Mexico,Benito Juarez,Veracruz Llave,96720,Denny Ordway,Iceberg Nesting Folding Chair,90,0.42
+286157,2018-01-16,21,Expedited,United States,Oakland,California,94627,Ralph Kennedy,Nortel Meridian M3904 Professional Digital phone,45,0.68
+167980,2018-08-01,27,Expedited,Canada,Lacombe,Alberta,T4L,Rob Dowd,Vinyl Coated Wire Paper Clips in Organizer Box,5,0.43
+974163,2018-12-28,3,First Class,United States,Dayton,Ohio,45426,Clay Rozendal,6/Carton,47,0.1
+504208,2018-08-03,24,Expedited,United States,El Paso,Texas,88546,Justin Hirsh,Blue,27,0.12
+417874,2018-10-13,19,Second Class,United States,El Paso,Texas,88553,Duane Benoit,Xerox 1942,40,0.04
+47329,2018-06-03,11,Standard Class,Mexico,Emiliano Zapata,Hidalgo,43645,Ralph Ritter,19-Hole,10,0.27
+392500,2018-06-13,9,First Class,Canada,Petawawa,Ontario,K8H,Ken Lonsdale,GE DSL Phone Line Filter,5,0.05
+816668,2018-02-07,11,Expedited,Mexico,Santa Maria,Jalisco,48324,Anthony Rawles,Jawbone JAMBOX Wireless Bluetooth Speaker,8,0.67
+644422,2018-07-03,1,Expedited,United States,Akron,Ohio,44310,Jason Gross,Balt Split Level Computer Training Table,27,0.52
+448516,2018-05-24,10,Second Class,United States,Honolulu,Hawaii,96840,Kelly Lampkin,KI Conference Tables,86,0.66
+641274,2018-11-15,28,First Class,Canada,Lac-Mégantic,Québec,G6B,Frank Gastineau,Acco PRESSTEX Data Binder with Storage Hooks,64,0.46
+667054,2018-08-09,7,Standard Class,United States,Lakeland,Florida,33805,MaryBeth Skach,Memorex Micro Travel Drive 4 GB,84,0.68
+138713,2018-03-24,26,First Class,United States,Saint Louis,Missouri,63104,Sean Miller,Gregg Ruled,100,0.38
+767991,2018-01-15,19,First Class,Mexico,Emiliano Zapata,Chiapas,30890,Kelly Lampkin,Presstex Flexible Ring Binders,23,0.29
+692277,2018-08-23,18,Expedited,Mexico,La Joya,Guanajuato,37600,Alice McCarthy,Wilson Jones Century Plastic Molded Ring Binders,11,0.66
+508126,2018-11-16,24,Standard Class,Mexico,El Progreso,Oaxaca,68451,Natalie DeCherney,Xerox 23,18,0.32
+201702,2018-03-20,10,Expedited,United States,South Bend,Indiana,46620,Michael Kennedy,Epson TM-T88V Direct Thermal Printer - Monochrome - Desktop,95,0.38
+285085,2018-05-28,30,Second Class,United States,Billings,Montana,59112,Cindy Schnelling,Jawbone MINI JAMBOX Wireless Bluetooth Speaker,35,0.42
+397076,2018-09-18,28,Expedited,Canada,Ponoka,Alberta,T4J,Ann Chong,Safco Commercial Shelving,88,0.17
+515677,2018-05-10,24,Expedited,United States,Salt Lake City,Utah,84115,Fred Harton,X-Rack File for Hanging Folders,20,0.48
+466302,2018-11-30,6,First Class,United States,Raleigh,North Carolina,27690,Mark Packer,Model L Table or Wall-Mount Pencil Sharpener,30,0.4
+880903,2018-02-08,9,Second Class,Canada,Keswick,Ontario,L4P,Annie Zypern,3 Capacity,9,0.53
+959438,2018-07-01,14,First Class,United States,West Palm Beach,Florida,33405,Heather Kirkland,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,32,0.18
+161051,2018-02-07,27,Expedited,United States,Albuquerque,New Mexico,87140,Sean Miller,Beige,88,0.41
+356147,2018-12-04,30,Standard Class,Mexico,Guadalupe,Veracruz Llave,94590,John Murray,Blue,48,0.61
+825307,2018-06-28,14,First Class,United States,Reno,Nevada,89550,Ken Brennan,Aastra 57i VoIP phone,51,0.71
+17278,2018-06-28,7,Standard Class,United States,Philadelphia,Pennsylvania,19146,Mary ORourke,Xerox 1945,56,0.15
+583650,2018-09-07,15,Expedited,Canada,Catalina,Newfoundland and Labrador,B2V,Jim Karlsson,Xerox 1947,10,0.19
+809545,2018-10-21,15,Second Class,United States,Denver,Colorado,80241,Bradley Drucker,2 Belts per Pack,14,0.58
+187503,2018-09-28,4,Standard Class,United States,Elmira,New York,14905,Bart Pistole,White,67,0.53
+665735,2018-08-13,18,Expedited,Canada,Thetford-Mines,Québec,G6G,John Lee,Ativa MDM8000 8-Sheet Micro-Cut Shredder,99,0.11
+798274,2018-03-01,12,Second Class,Canada,Napierville,Québec,M2N,Herbert Flentye,Westinghouse Clip-On Gooseneck Lamps,83,0.53
+508205,2018-04-05,30,Standard Class,Canada,Alma,Québec,N6J,Katherine Nockton,Jabra SPEAK 410,29,0.29
+986509,2018-10-13,24,First Class,Canada,Peace River,Alberta,T8S,Dionis Lloyd,Hon 2111 Invitation Series Straight Table,17,0.32
+201095,2018-08-16,4,First Class,Canada,Fort McMurray,Alberta,T9J,Guy Thornton,Ampad Poly Cover Wirebound Steno Book,65,0.34
+169346,2018-05-25,1,Second Class,United States,Newton,Massachusetts,02162,Irene Maddox,4009 Highlighters by Sanford,62,0.46
+598795,2018-11-27,27,Second Class,United States,Farmington,Michigan,48335,Mitch Webber,SanDisk Ultra 16 GB MicroSDHC Class 10 Memory Card,52,0.55
+602108,2018-09-29,27,Second Class,United States,Colorado Springs,Colorado,80915,Angele Hood,Black,100,0.61
+45106,2018-12-22,18,First Class,Canada,Fairview,Alberta,L1M,Stephanie Phelps,Avery 485,21,0.21
+16016,2018-06-18,22,Second Class,United States,Boston,Massachusetts,02283,Jill Matthias,Fellowes Basic Home/Office Series Surge Protectors,70,0.67
+757575,2018-02-12,9,First Class,United States,Charleston,West Virginia,25362,Andrew Roberts,Adtran 1202752G1,53,0.58
+103989,2018-12-29,28,First Class,United States,Houston,Texas,77090,Daniel Lacy,No Bevel Mat for Low Pile Carpeting,100,0.33
+88795,2018-07-28,9,Standard Class,United States,El Paso,Texas,88530,Craig Yedwab,AT&T 1070 Corded Phone,35,0.4
+497306,2018-03-04,9,Second Class,United States,Knoxville,Tennessee,37939,Carl Weiss,Brown,74,0.64
+990265,2018-11-03,19,Expedited,United States,Newark,New Jersey,07104,Maureen Gastineau,Logitech Wireless Gaming Headset G930,34,0.14
+68075,2018-08-26,19,Second Class,Canada,Saint-Joseph-de-Coleraine,Québec,N2E,Sanjit Jacobs,Belkin 7 Outlet SurgeMaster II,57,0.56
+899051,2018-06-09,2,Standard Class,United States,Nashville,Tennessee,37220,George Ashbrook,G.E. Halogen Desk Lamp Bulbs,12,0.42
+287161,2018-04-21,5,Expedited,United States,Houston,Texas,77075,Natalie Webber,Bush Heritage Pine Collection 5-Shelf Bookcase,50,0.15
+699721,2018-10-06,21,Second Class,Canada,Little Current,Ontario,J6A,Scott Williamson,Mat Size- 66 x 60,74,0.44
+161713,2018-10-07,22,Second Class,Mexico,Zaragoza,Chiapas,30800,Penelope Sewall,9 1/2 X 11,86,0.62
+129129,2018-10-07,2,First Class,Canada,Malartic,Québec,X0G,Benjamin Patterson,GE 2-Jack Phone Line Splitter,55,0.42
+935509,2018-04-28,12,Standard Class,Mexico,Loma Bonita,Guerrero,41240,Lisa Hazard,SanDisk Cruzer 16 GB USB Flash Drive,9,0.57
+327172,2018-08-21,15,Expedited,United States,Birmingham,Alabama,35290,Giulietta Dortch,Extra Strips,47,0.75
+261193,2018-02-03,13,Expedited,Mexico,La Esperanza,Veracruz Llave,95590,Carol Adams,Advantus Motivational Note Cards,6,0.05
+301952,2018-09-24,24,Expedited,Mexico,Miguel Hidalgo,Distrito Federal,14260,Cindy Stewart,TOPS Carbonless Receipt Book,61,0.55
+25992,2018-05-26,9,Expedited,United States,Salinas,California,93907,Patrick OBrill,Global Deluxe High-Back Managers Chair,15,0.67
+793824,2018-11-06,9,Standard Class,United States,Pittsburgh,Pennsylvania,15266,Adrian Hane,Eldon Shelf Savers Cubes and Bins,69,0.36
+616635,2018-06-14,1,Standard Class,Mexico,Francisco I Madero,Zacatecas,98351,Allen Armold,Bevis 36 x 72 Conference Tables,56,0.72
+490550,2018-04-19,17,First Class,Mexico,La Victoria,Veracruz Llave,95603,Brendan Dodson,Maxell 4.7GB DVD-R,36,0.39
+692826,2018-04-28,26,Expedited,Canada,Chambly,Québec,J3L,Dianna Arnett,Black Print Carbonless 8 1/2 x 8 1/4 Rapid Memo Book,93,0.26
+468149,2018-08-10,28,Expedited,Mexico,Lazaro Cardenas,Tamaulipas,87326,Ruben Ausman,Wilson Jones Hanging Recycled Pressboard Data Binders,28,0.55
+427620,2018-12-08,26,First Class,Canada,Ladysmith,British Columbia,V9G,Neola Schneider,Fellowes Binding Cases,68,0.25
+753495,2018-05-31,7,Expedited,Canada,Belleville,Ontario,K8P,Harry Marie,Ideal Clamps,89,0.55
+194178,2018-02-25,17,Second Class,Mexico,Azteca,Veracruz Llave,93270,Joseph Airdo,Eldon Wave Desk Accessories,71,0.01
+11953,2018-05-03,12,First Class,United States,Mobile,Alabama,36689,Seth Vernon,Fellowes Mighty 8 Compact Surge Protector,89,0.4
+431994,2018-10-26,24,Expedited,Canada,Kitimat,British Columbia,V8C,Fred Wasserman,Lesro Sheffield Collection Coffee Table,87,0.35
+932074,2018-11-08,10,Standard Class,United States,Asheville,North Carolina,28805,Maxwell Schwartz,OIC #2 Pencils,57,0.01
+824607,2018-01-14,11,Standard Class,United States,Staten Island,New York,10305,Darrin Sayre,Office Star - Mesh Screen back chair with Vinyl seat,67,0.18
+86272,2018-10-21,26,First Class,United States,Washington,District of Columbia,56944,Eric Hoffmann,Xerox 1898,98,0.5
+518458,2018-11-18,19,Second Class,Canada,Saint-Augustin-de-Desmaures,Québec,G3A,Herbert Flentye,Brown,51,0.39
+509331,2018-07-10,6,Standard Class,Mexico,Buenos Aires,Jalisco,47253,Michael Dominguez,Hewlett Packard LaserJet 3310 Copier,79,0.19
+51208,2018-03-30,30,Expedited,United States,San Jose,California,95160,David Flashing,Newell 315,74,0.44
+656545,2018-06-19,30,First Class,United States,Charleston,West Virginia,25331,Luke Foster,Southworth 25% Cotton Premium Laser Paper and Envelopes,32,0.26
+159704,2018-10-18,26,First Class,Canada,Gravelbourg,Saskatchewan,G8V,Caroline Jumper,White,88,0.45
+422103,2018-03-08,20,Second Class,Mexico,Benito Juarez,Sonora,84015,Greg Tran,Mitel 5320 IP Phone VoIP phone,73,0.58
+848460,2018-01-30,18,Standard Class,Canada,Kugluktuk,Nunavut,T5C,Lauren Leatherbury,Black,100,0.44
+516452,2018-10-11,11,Standard Class,United States,Norwalk,Connecticut,06854,John Stevenson,Bevis Traditional Conference Table Top,75,0.34
+277299,2018-09-25,22,First Class,Mexico,San Antonio,Nuevo Leon,64103,Sandra Glassco,Fellowes Officeware Wire Shelving,22,0.66
+600894,2018-03-22,16,Expedited,United States,Bakersfield,California,93305,Sharelle Roach,Satellite Sectional Post Binders,23,0.43
+508031,2018-01-18,16,Standard Class,United States,Anchorage,Alaska,99522,Tiffany House,Model AR050B,42,0.14
+203596,2018-10-12,30,Second Class,United States,Dallas,Texas,75236,Quincy Jones,Clear Plastic Sheets,97,0.3
+818020,2018-08-11,7,Expedited,United States,Little Rock,Arkansas,72215,Ellis Ballard,GBC Personal VeloBind Strips,30,0.04
+744449,2018-07-08,16,Standard Class,United States,South Bend,Indiana,46620,Arthur Gainer,Avery Round Ring Poly Binders,20,0.4
+339040,2018-06-19,16,Standard Class,Canada,Drummondville,Québec,J2E,Corey Roper,Drive Gear & Gear Rack for 1606,15,0.32
+982213,2018-04-02,6,Standard Class,Canada,Morden,Manitoba,R6M,Roland Fjeld,Xerox 1985,47,0.42
+957858,2018-11-27,5,Standard Class,Mexico,Hidalgo,Coahuila De Zaragoza,26060,Bryan Spruell,Crayola Colored Pencils,97,0.73
+452628,2018-05-17,6,Expedited,Canada,Normandin,Québec,G0H,Russell DAscenzo,Avery 516,38,0.39
+425384,2018-03-27,29,Second Class,United States,Whittier,California,90605,Ed Braxton,Riverside Furniture Stanwyck Manor Table Series,77,0.21
+851015,2018-01-17,7,Second Class,Canada,Grand Bank,Newfoundland and Labrador,E8K,Vivek Sundaresam,GBC VeloBinder Manual Binding System,99,0.56
+114399,2018-08-14,2,Second Class,United States,Kingsport,Tennessee,37665,Dario Medina,Xerox 1902,11,0.52
+783306,2018-07-08,16,Second Class,Mexico,La Soledad,Oaxaca,68430,Tony Chapman,Navy,67,0.62
+456975,2018-08-15,15,Second Class,Canada,Roberval,Québec,G8H,Dennis Pardue,Belkin F5C206VTEL 6 Outlet Surge,24,0.74
+171745,2018-06-24,11,Standard Class,United States,El Paso,Texas,88519,Sibella Parks,SanDisk Cruzer 32 GB USB Flash Drive,13,0.67
+187417,2018-01-21,19,Expedited,Mexico,Guadalupe,Guanajuato,38900,Mick Crebagga,25/Bx,97,0.56
+294721,2018-02-23,28,Standard Class,United States,Jefferson City,Missouri,65110,Valerie Takahito,Square Ring Data Binders,28,0.36
+387236,2018-10-06,17,First Class,United States,Springfield,Illinois,62723,Lori Olson,Barricks 18 x 48 Non-Folding Utility Table with Bottom Storage Shelf,87,0.4
+806760,2018-02-19,13,First Class,Canada,Beloeil,Québec,J3H,Grace Kelly,Xerox 1926,83,0.49
+864547,2018-10-30,21,Expedited,United States,Seattle,Washington,98195,Lauren Leatherbury,43w x 30d x 30-37h,63,0.44
+958110,2018-10-31,15,Second Class,Mexico,Los Pinos,Michoacan De Ocampo,61650,Sharelle Roach,AT&T SB67148 SynJ,14,0.16
+404073,2018-11-16,4,First Class,United States,Toledo,Ohio,43605,Ruben Dartt,Wilson Jones 1 Hanging DublLock Ring Binders,94,0.09
+752129,2018-08-20,3,Standard Class,United States,San Antonio,Texas,78205,Valerie Mitchum,EcoTones Memo Sheets,12,0.52
+898663,2018-07-03,27,First Class,Canada,Cochrane,Alberta,T4C,Emily Ducich,Fellowes Advanced 8 Outlet Surge Suppressor with Phone/Fax Protection,69,0.17
+60152,2018-04-08,18,Second Class,United States,Wichita,Kansas,67236,Astrea Jones,SanDisk Ultra 64 GB MicroSDHC Class 10 Memory Card,44,0.05
+881691,2018-01-01,22,First Class,United States,Tampa,Florida,33615,Paul Lucas,Mitel 5320 IP Phone VoIP phone,28,0.72
+587422,2018-05-05,1,Second Class,United States,San Jose,California,95194,Penelope Sewall,GBC Laser Imprintable Binding System Covers,62,0.32
+631319,2018-12-23,6,Expedited,Canada,Stettler,Alberta,G8J,Penelope Sewall,Presstex Flexible Ring Binders,44,0.35
+709280,2018-11-06,12,Standard Class,United States,Baltimore,Maryland,21290,Emily Burns,Contemporary Borderless Frame,42,0.3
+375434,2018-02-06,23,Second Class,Canada,St. Thomas,Ontario,N5R,Andrew Roberts,Xerox 209,59,0.6
+122369,2018-12-19,23,Standard Class,Mexico,Independencia,Durango,35156,Alan Hwang,Gray,37,0.65
+307721,2018-01-08,22,Second Class,Mexico,Lazaro Cardenas,Coahuila De Zaragoza,27944,Randy Ferguson,GBC VeloBinder Manual Binding System,75,0.07
+215463,2018-05-27,26,Standard Class,Canada,Matagami,Québec,N2M,Darrin Van Huff,Avery 514,38,0.65
+359033,2018-03-31,11,First Class,Canada,Neuville,Québec,T9M,Phillip Breyer,"",92,0.2
+7871,2018-02-20,24,Expedited,Canada,North Cowichan,British Columbia,V9L,Sandra Flanagan,Jawbone JAMBOX Wireless Bluetooth Speaker,40,0.06
+110125,2018-05-16,14,Second Class,United States,Punta Gorda,Florida,33982,Deirdre Greer,Southworth 25% Cotton Granite Paper & Envelopes,48,0.24
+192039,2018-06-26,6,Standard Class,United States,Houston,Texas,77228,John Murray,OIC Thumb-Tacks,1,0.11
+761450,2018-10-10,2,Standard Class,Mexico,Lazaro Cardenas,Michoacan De Ocampo,61150,Jim Karlsson,Newell 321,92,0.06
+324761,2018-04-19,5,Standard Class,United States,Brooklyn,New York,11215,Kean Takahito,Ream,76,0.15
+57047,2018-10-11,6,Standard Class,Mexico,Lazaro Cardenas,Tabasco,86723,Beth Fritzler,Acco Hot Clips Clips to Go,67,0.25
+752059,2018-01-21,22,Expedited,Mexico,San Antonio,Oaxaca,71200,Joni Blumstein,Adams Telephone Message Book w/Frequently-Called Numbers Space,36,0.39
+279568,2018-11-07,11,First Class,Mexico,La Aurora,Jalisco,48338,Sara Luxemburg,Eaton Premium Continuous-Feed Paper,46,0.45
+420676,2018-06-08,16,First Class,Canada,Hanna,Alberta,T6L,Valerie Mitchum,Xerox 1884,24,0.34
+163671,2018-01-04,14,Standard Class,Mexico,La Victoria,Veracruz Llave,95603,Adam Hart,Security-Tint Envelopes,29,0.46
+593446,2018-12-21,28,First Class,Canada,Pangnirtung,Nunavut,M5T,Beth Paige,1.7 Cubic Foot Compact Cube Office Refrigerators,11,0.31
+515152,2018-04-27,27,Expedited,United States,Saint Louis,Missouri,63126,Christine Kargatis,Logitech ClearChat Comfort/USB Headset H390,65,0.08
+707442,2018-11-09,4,Expedited,United States,Columbia,South Carolina,29220,Lisa DeCherney,800/Box,39,0.63
+93880,2018-06-12,19,First Class,United States,Farmington,Michigan,48335,Lena Creighton,DAX Two-Tone Rosewood/Black Document Frame,93,0.45
+215357,2018-01-31,30,Second Class,Mexico,Benito Juarez,Durango,35180,Cathy Prescott,Dark Blue,66,0.25
+985393,2018-06-06,13,Standard Class,Canada,Oromocto,New Brunswick,E2V,Joni Blumstein,Newell 317,9,0.56
+422649,2018-09-13,21,First Class,United States,Schenectady,New York,12305,Mitch Willingham,Eldon Wave Desk Accessories,8,0.16
+285497,2018-07-29,25,Expedited,Canada,Thorold,Ontario,L2V,Rick Wilson,Belkin 19 Vented Equipment Shelf,25,0.4
+806412,2018-02-02,19,Second Class,Mexico,Independencia,Puebla,75780,Pauline Chand,Riverleaf Stik-Withit Designer Note Cubes,100,0.55
+852808,2018-10-17,5,First Class,Mexico,Fernando Gutierrez Barrios,Veracruz Llave,93420,Brian Dahlen,Nortel Meridian M3904 Professional Digital phone,80,0.22
+904023,2018-08-03,17,Second Class,United States,Honolulu,Hawaii,96805,Andrew Gjertsen,Black,42,0.22
+308202,2018-04-13,13,Expedited,Mexico,El Porvenir,Chiapas,29920,Sean Braxton,Binaural,83,0.42
+273373,2018-04-16,29,First Class,Mexico,La Palma,Mexico,52600,Bruce Galang,Professional,12,0.54
+528763,2018-05-13,20,Standard Class,Mexico,Benito Juarez,Sonora,84015,Charles Sheldon,Accessory Kit,90,0.58
+909817,2018-08-21,7,Expedited,United States,Cincinnati,Ohio,45223,Carl Jackson,Boston Heavy-Duty Trimline Electric Pencil Sharpeners,3,0.27
+188529,2018-04-02,18,Standard Class,Canada,Saint-Sauveur,Québec,J0R,Tom Boeckenhauer,Stanley Contemporary Battery Pencil Sharpeners,21,0.63
+205587,2018-05-28,5,First Class,United States,Salt Lake City,Utah,84105,Magdelene Morse,DAX Two-Tone Rosewood/Black Document Frame,52,0.11
+880994,2018-04-08,6,Second Class,Canada,Campbellton,New Brunswick,E3N,Barry Weirich,Decoflex Hanging Personal Folder File,63,0.16
+141803,2018-11-26,27,Second Class,Canada,Collingwood,Ontario,L9Y,Tim Brockman,Copier Scanner,46,0.25
+7633,2018-05-09,12,First Class,United States,Sacramento,California,94237,Allen Goldenen,Sterilite Show Offs Storage Containers,99,0.58
+604998,2018-10-31,21,Standard Class,Mexico,Francisco I Madero,Coahuila De Zaragoza,26010,Alan Barnes,6 Capacity,93,0.06
+488327,2018-01-19,26,First Class,Canada,Espanola,Ontario,P5E,Raymond Messe,Ativa MDM8000 8-Sheet Micro-Cut Shredder,84,0.74
+764314,2018-12-20,11,Expedited,United States,Memphis,Tennessee,38150,Eric Hoffmann,Triplicate,49,0.15
+369474,2018-02-27,23,First Class,United States,Augusta,Georgia,30905,Jim Sink,Avery 501,34,0.06
+314829,2018-07-05,11,Expedited,Mexico,Manlio Fabio Altamirano,Veracruz Llave,94970,Penelope Sewall,Eldon File Chest Portable File,24,0.51
+427914,2018-03-03,13,First Class,United States,Honolulu,Hawaii,96805,Alan Shonely,WD My Passport Ultra 2TB Portable External Hard Drive,6,0.35
+286372,2018-03-04,20,Second Class,Canada,Hope,British Columbia,V7R,Nicole Brennan,OSullivan Elevations Bookcase,17,0.05
+124617,2018-06-10,8,First Class,Canada,Peachland,British Columbia,B3S,Ted Trevino,12/Box,70,0.5
+279155,2018-12-13,11,Expedited,United States,Hyattsville,Maryland,20784,Bill Overfelt,Staple holder,14,0.6
+770292,2018-10-30,4,First Class,United States,Des Moines,Iowa,50981,Marc Harrigan,Angle-D Binders with Locking Rings,92,0.41
+92181,2018-02-01,8,Second Class,United States,Shawnee Mission,Kansas,66286,Darren Koutras,Four 5 1/2 X 4 Forms/Pg.,92,0.65
+216663,2018-07-26,16,Expedited,Mexico,La Cruz,Guanajuato,36770,Greg Guthrie,Acme Titanium Bonded Scissors,82,0.03
+987334,2018-11-17,26,Standard Class,Canada,Carman,Manitoba,A8A,Peter Fuller,No Bevel Mat for Low Pile Carpeting,38,0.13
+111118,2018-11-21,22,Second Class,Mexico,Ricardo Flores Magon,Veracruz Llave,93650,Eleni McCrary,Cisco TelePresence System EX90 Videoconferencing Unit,58,0.72
+511906,2018-09-29,27,First Class,United States,Tucson,Arizona,85715,Kristina Nunn,Avery 514,71,0.28
+479982,2018-03-18,29,First Class,Canada,Dalmeny,Saskatchewan,M4P,Sylvia Foulston,Dana Swing-Arm Lamps,90,0.15
+168716,2018-04-02,8,Second Class,Canada,Virden,Manitoba,J5V,Gary Zandusky,Vinyl Coated Wire Paper Clips in Organizer Box,78,0.53
+424893,2018-11-26,23,Expedited,Mexico,El Mirador,Mexico,56564,Debra Catini,Plantronics Encore H101 Dual EarpiecesÂ Headset,6,0.52
+37033,2018-09-04,14,Standard Class,United States,Elmira,New York,14905,Joni Wasserman,Xerox 1988,53,0.69
+980716,2018-01-06,28,Expedited,Canada,Clarence-Rockland,Ontario,K4K,Eugene Moren,Avery 514,96,0.27
+700106,2018-08-23,8,Expedited,United States,Midland,Texas,79705,Michael Knudson,StarTech.com 10/100 VDSL2 Ethernet Extender Kit,31,0.55
+332707,2018-05-19,27,Expedited,Canada,Skatepark,Ontario,K7R,Anthony ODonnell,Adams Telephone Message Book w/Frequently-Called Numbers Space,48,0.6
+769176,2018-05-03,16,Second Class,United States,Hartford,Connecticut,06183,Mike Gockenbach,Standard Line While You Were Out,77,0.23
+868832,2018-01-08,10,Expedited,Mexico,Benito Juarez,Chihuahua,31770,Yana Sorensen,Avery 494,89,0.54
+65408,2018-06-04,21,Expedited,United States,Honolulu,Hawaii,96805,Alex Grayson,Medium Soft,94,0.26
+727017,2018-11-09,1,Standard Class,United States,Milwaukee,Wisconsin,53263,Chad Sievert,Wirebound Service Call Books,18,0.03
+721130,2018-04-03,10,First Class,Mexico,San Jose,Veracruz Llave,95643,Bill Eplett,10-Outlet,47,0.73
+326323,2018-12-13,4,Standard Class,Canada,Gjoa Haven,Nunavut,J7R,Cathy Armstrong,Memo Book,24,0.14
+166248,2018-10-27,26,Second Class,Mexico,Las Flores,Tamaulipas,87395,Ken Black,Dax Clear Box Frame,4,0.28
+876677,2018-09-04,19,Second Class,United States,Oceanside,California,92056,Jennifer Jackson,Dax Clear Box Frame,49,0.49
+344312,2018-04-08,7,Standard Class,Mexico,Emiliano Zapata,Jalisco,48892,Daniel Lacy,Crayola Colored Pencils,79,0.54
+75025,2018-04-19,7,Expedited,Canada,Bancroft,Ontario,S4X,Jason Fortune-,Staple magnet,99,0.63
+454042,2018-10-07,19,Expedited,United States,Providence,Rhode Island,02912,Debra Catini,Safco Value Mate Series Steel Bookcases,77,0.63
+607908,2018-04-29,29,First Class,Canada,Medicine Hat,Alberta,T1C,Julia Barnett,Brown Kraft,6,0.0
+810350,2018-04-22,27,Second Class,Mexico,San Francisco,Veracruz Llave,95710,Sanjit Jacobs,Holmes Odor Grabber,68,0.14
+695453,2018-09-09,29,Standard Class,United States,Shreveport,Louisiana,71137,Tamara Chand,Black,48,0.12
+122290,2018-07-03,7,Standard Class,Canada,Flin Flon,Manitoba,R8A,Chris Selesnick,Xerox 1947,36,0.04
+541199,2018-12-25,9,Expedited,Canada,Okotoks,Alberta,T1S,Scott Cohen,Plantronics 81402,74,0.31
+369946,2018-09-15,23,Standard Class,Canada,Melfort,Saskatchewan,B3H,Duane Noonan,Wilson Jones Legal Size Ring Binders,13,0.06
+440688,2018-03-12,29,Second Class,United States,Saint Joseph,Missouri,64504,Benjamin Patterson,Adams Telephone Message Book w/Frequently-Called Numbers Space,93,0.74
+507826,2018-07-08,28,Second Class,United States,Mesquite,Texas,75185,Rick Reed,60w x 37-1/2d,25,0.1
+586966,2018-01-30,17,Standard Class,Mexico,Ejidal,Guerrero,40160,Ken Black,Gray,98,0.45
+921995,2018-09-19,29,Second Class,United States,Round Rock,Texas,78682,Jack Garza,Acrylic Self-Standing Desk Frames,1,0.27
+822180,2018-08-19,13,First Class,United States,Lancaster,Pennsylvania,17622,Ann Blume,Pyle PMP37LED,77,0.01
+500274,2018-06-04,19,Expedited,United States,Omaha,Nebraska,68110,Becky Martin,Xerox 1995,66,0.48
+125826,2018-07-14,3,Expedited,United States,Tucson,Arizona,85732,Katrina Willman,Southworth 25% Cotton Premium Laser Paper and Envelopes,46,0.2
+706334,2018-04-16,6,Standard Class,United States,Sacramento,California,94263,Toby Ritter,OSullivan 4-Shelf Bookcase in Odessa Pine,83,0.1
+91230,2018-07-20,9,Expedited,Canada,Nanton,Alberta,L5M,Chris Selesnick,GuestStacker Chair with Chrome Finish Legs,18,0.58
+991013,2018-09-09,27,First Class,United States,Alexandria,Louisiana,71307,Aleksandra Gannaway,Deflect-o DuraMat Lighweight,19,0.32
+180597,2018-04-25,26,First Class,United States,Olympia,Washington,98506,Matt Hagelstein,C-Line Cubicle Keepers Polyproplyene Holder w/Velcro Back,75,0.38
+801839,2018-05-19,22,Standard Class,United States,Tyler,Texas,75710,Andrew Gjertsen,Professional,19,0.06
+69219,2018-08-12,22,Expedited,Mexico,Fovissste,Sonora,85936,Sandra Flanagan,Compact Automatic Electric Letter Opener,45,0.11
+897695,2018-06-29,8,Second Class,Canada,Kingston,Ontario,E5S,Dennis Bolton,White,84,0.43
+102564,2018-10-10,13,Second Class,Canada,Les Cèdres,Québec,J6S,Lisa Ryan,Smoke,98,0.53
+362970,2018-07-04,26,Second Class,United States,Houston,Texas,77299,Maureen Fritzler,Plantronics CordlessÂ Phone HeadsetÂ with In-line Volume - M214C,42,0.24
+266798,2018-08-19,24,Second Class,United States,Naperville,Illinois,60567,Kelly Collister,Metal Folding Chairs,6,0.24
+695545,2018-05-26,28,Second Class,Canada,Swan Hills,Alberta,L2T,Jill Matthias,Alliance Super-Size Bands,74,0.19
+633585,2018-04-30,8,First Class,Canada,Milton,Ontario,L9T,Jim Epp,Xerox 205,99,0.71
+223010,2018-11-17,29,Expedited,Mexico,Guadalupe,Jalisco,45310,Dennis Pardue,Dark Blue,49,0.51
+699149,2018-10-09,3,Second Class,United States,Charlottesville,Virginia,22908,Carol Darley,GBC Laser Imprintable Binding System Covers,3,0.54
+195966,2018-05-31,24,Expedited,Canada,Warwick,Québec,G6R,Russell Applegate,Sauder Cornerstone Collection Library,49,0.25
+372716,2018-10-26,21,Expedited,United States,Salinas,California,93907,Aaron Bergman,Safco Industrial Wire Shelving System,38,0.06
+342384,2018-01-28,9,Expedited,United States,El Paso,Texas,88553,Jesus Ocampo,Barricks 18 x 48 Non-Folding Utility Table with Bottom Storage Shelf,91,0.4
+901310,2018-10-16,13,Expedited,Canada,Lachute,Québec,J8H,Clay Ludtke,Fellowes Advanced 8 Outlet Surge Suppressor with Phone/Fax Protection,87,0.72
+463242,2018-07-24,17,First Class,Mexico,Loma Bonita,Mexico,52740,John Grady,Hon 4060 Series Tables,44,0.59
+616767,2018-10-15,6,Expedited,United States,Rochester,New York,14683,Karen Ferguson,Global Highback Leather Tilter in Burgundy,66,0.2
+358492,2018-12-16,17,Expedited,Mexico,Nueva Esperanza,Veracruz Llave,94242,Emily Ducich,Hon GuestStacker Chair,45,0.14
+295401,2018-09-06,8,Standard Class,United States,San Jose,California,95113,Barry Weirich,Xerox 21,70,0.17
+922798,2018-04-11,29,Second Class,United States,Jamaica,New York,11470,Alex Russell,TOPS Carbonless Receipt Book,81,0.09
+74728,2018-07-24,5,Expedited,Mexico,La Esperanza,Guanajuato,37900,Julie Prescott,Eaton Premium Continuous-Feed Paper,94,0.63
+791899,2018-11-25,17,Expedited,Canada,Canmore,Alberta,T1W,Susan Gilcrest,Eldon Image Series Desk Accessories,35,0.07
+651712,2018-02-08,15,Expedited,Canada,Weyburn,Saskatchewan,S4H,David Flashing,Binaural,76,0.19
+707883,2018-11-04,12,Standard Class,Mexico,Progreso,Chihuahua,31210,Fred Hopkins,Lifetime Advantage Folding Chairs,13,0.75
+831390,2018-02-19,9,Standard Class,United States,Louisville,Kentucky,40205,Claire Gute,Newell 308,71,0.45
+794296,2018-10-14,3,Second Class,Mexico,La Loma,Jalisco,47685,Carol Adams,wired,5,0.13
+946760,2018-09-26,5,First Class,United States,Washington,District of Columbia,20088,Nathan Cano,Letter Size Cart,32,0.51
+262972,2018-11-30,29,Second Class,United States,Palatine,Illinois,60078,Charles McCrossin,Xerox 190,28,0.2
+877903,2018-05-23,27,Second Class,Mexico,Los Pinos,Michoacan De Ocampo,61650,Katherine Hughes,Xerox 1966,46,0.06
+900481,2018-02-26,21,Standard Class,Mexico,Magisterial,Veracruz Llave,92934,Greg Tran,Clear Mylar Reinforcing Strips,100,0.46
+926114,2018-01-29,14,First Class,United States,Daytona Beach,Florida,32128,Eugene Hildebrand,Southworth 25% Cotton Granite Paper & Envelopes,97,0.07
+350421,2018-01-20,15,First Class,United States,El Paso,Texas,88541,Michelle Arnett,Gray,38,0.04
+541423,2018-07-31,24,Standard Class,Canada,Skatepark,Ontario,K7R,Hallie Redmond,Black,3,0.63
+275768,2018-11-20,29,Expedited,United States,Cincinnati,Ohio,45249,Denny Joy,Ibico Standard Transparent Covers,7,0.55
+645233,2018-07-03,6,Expedited,United States,Scottsdale,Arizona,85271,John Lee,14 7/8 x 11,91,0.18
+758411,2018-04-09,1,Standard Class,Mexico,San Sebastian,Chiapas,29950,Steven Ward,Very Large Room,83,0.53
+636520,2018-05-18,11,First Class,Mexico,Del Valle,Tamaulipas,88980,Edward Becker,GBC DocuBind TL300 Electric Binding System,100,0.17
+277636,2018-03-22,30,Second Class,Canada,Amqui,Québec,G5J,Anna Gayman,1,40,0.52
+642599,2018-10-12,17,Expedited,Mexico,Buenos Aires,Michoacan De Ocampo,58095,Anthony Johnson,3D Systems Cube Printer,44,0.7
+834822,2018-12-04,2,Standard Class,Canada,Invermere,British Columbia,J1K,Erica Hackney,Xerox 1999,8,0.32
+312826,2018-06-06,25,Second Class,Mexico,La Paz,Oaxaca,71161,Alyssa Crouse,Lip 20 x 11 -90 Degree Angle,84,0.15
+237509,2018-05-26,8,Second Class,Canada,Bouctouche,Nouveau-Brunswick,E4S,Harry Greene,Hon 2111 Invitation Series Straight Table,99,0.17
+480599,2018-01-14,21,Standard Class,Mexico,Santa Maria,Coahuila De Zaragoza,25903,Darren Budd,#10- 4 1/8 x 9 1/2 Recycled Envelopes,65,0.42
+689794,2018-09-26,23,Expedited,Canada,Okanagan,British Columbia,T0P,Nicole Hansen,Boston Heavy-Duty Trimline Electric Pencil Sharpeners,57,0.3
+181094,2018-10-06,15,Expedited,Canada,Repentigny,Québec,J6V,Aaron Smayling,Wilson Jones Leather-Like Binders with DublLock Round Rings,6,0.52
+830549,2018-11-27,9,Expedited,Canada,Petrolia,Ontario,N0N,Justin Ellison,Sensible Storage WireTech Storage Systems,36,0.7
+158925,2018-10-11,2,Standard Class,United States,Anchorage,Alaska,99522,Jennifer Halladay,Boston 16750 Black Compact Battery Pencil Sharpener,47,0.07
+790116,2018-12-16,23,First Class,United States,Houston,Texas,77293,Bruce Geld,Black,58,0.47
+116574,2018-06-13,6,Expedited,Mexico,Reforma,Tabasco,86216,Sally Hughsby,Albany Pine Finish,32,0.06
+64806,2018-07-02,30,Expedited,United States,Jamaica,New York,11470,Maria Zettner,Fellowes Bankers Box Stor/Drawer Steel Plus,4,0.66
+903803,2018-08-19,9,Standard Class,Mexico,Guadalupe,Guanajuato,38900,Jesus Ocampo,BIC Brite Liner Grip Highlighters,37,0.66
+972446,2018-06-03,14,Second Class,Mexico,Linda Vista,Veracruz Llave,94475,Damala Kotsonis,Newell 312,44,0.67
+474992,2018-12-09,3,First Class,United States,Lynchburg,Virginia,24515,Arthur Prichep,Avery Hole Reinforcements,66,0.13
+670843,2018-09-06,7,Second Class,Canada,Leduc,Alberta,T9E,Dean Katz,Wilson Jones Heavy-Duty Casebound Ring Binders with Metal Hinges,61,0.31
+665271,2018-09-18,10,Second Class,United States,Augusta,Georgia,30905,Liz Carlisle,Hunt Boston Vacuum Mount KS Pencil Sharpener,93,0.12
+448142,2018-06-18,19,First Class,Canada,Campbellton,New Brunswick,E3N,Maureen Fritzler,Razer Kraken 7.1 Surround Sound Over Ear USB Gaming Headset,64,0.45
+934639,2018-11-15,10,Standard Class,Mexico,San Antonio,Jalisco,47336,James Lanier,Desktop,74,0.45
+248009,2018-06-25,6,Second Class,Canada,Petawawa,Ontario,K8H,Mike Pelletier,Fellowes Advanced Computer Series Surge Protectors,88,0.63
+428454,2018-10-03,10,Expedited,Mexico,San Jose,Hidalgo,43161,Janet Lee,BIC Brite Liner Highlighters,14,0.24
+225103,2018-09-19,8,Standard Class,Mexico,Miguel Hidalgo,Guerrero,39120,Scott Cohen,Memorex Mini Travel Drive 64 GB USB 2.0 Flash Drive,49,0.12
+93628,2018-02-14,28,First Class,Mexico,Buenavista,Sinaloa,81806,Philip Fox,14 7/8 x 11,47,0.28
+474198,2018-03-01,22,First Class,Mexico,Magisterial,Zacatecas,99750,Jim Mitchum,Xerox 1955,68,0.45
+595569,2018-12-13,16,Expedited,Canada,L'Épiphanie,Québec,J5X,Paul Knutson,GBC Plastic Binding Combs,80,0.34
+615,2018-08-12,30,Expedited,United States,Billings,Montana,59112,George Bell,Ideal Clamps,66,0.15
+57398,2018-11-30,18,Standard Class,United States,Saint Louis,Missouri,63143,Paul Stevenson,Fellowes Bankers Box Stor/Drawer Steel Plus,9,0.67
+100575,2018-04-15,14,Standard Class,Mexico,Emiliano Zapata,Mexico,55690,Pierre Wener,GBC DocuBind 200 Manual Binding Machine,62,0.18
