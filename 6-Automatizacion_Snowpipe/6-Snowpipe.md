@@ -1,5 +1,3 @@
-¡Por supuesto! Aquí te presento un tutorial sobre cómo configurar la automatización de Snowpipe con Google Cloud Storage, listo para subir a tu repositorio de GitHub:
-
 ## Automatización de Snowpipe con Google Cloud Storage
 
 Este tutorial te guiará a través de los pasos para configurar la carga automatizada de datos desde Google Cloud Storage (GCS) a Snowflake utilizando Snowpipe.

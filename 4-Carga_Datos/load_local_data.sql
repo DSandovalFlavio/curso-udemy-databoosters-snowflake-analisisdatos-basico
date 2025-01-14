@@ -37,7 +37,7 @@ PUT file://C:/Users/flavi/Teaching/curso-udemy-databoosters-snowflake-analisisda
 -- Listar los archivos en el stage
 LIST @internal_mkt_stage;
 
--- Seleccionar Virtual Warehouse a utilizar
+-- Seleccionar Virtual Warehouse a utiliza
 USE WAREHOUSE COMPUTE_WH;
 
 -- Copiar los datos del stage a la tabla
