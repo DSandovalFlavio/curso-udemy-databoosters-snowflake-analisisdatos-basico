@@ -1,54 +1,37 @@
-CREATE OR REPLACE VIEW `cogent-tree-369319.codigo_facilito_dw.vw_gold_dim_product` AS (
-    SELECT 
-        RANK() OVER (ORDER BY product, category) AS product_id,
-        product, category
-    FROM 
-        `cogent-tree-369319.codigo_facilito_dw.vw_silver_sales_report` 
-    GROUP BY 
-        product, category;
-    );
+CREATE OR REPLACE VIEW GOLD_DIM_PRODUCT_VW AS 
+-- Esta vista crea la dimensión de producto con un ID único para cada producto y categoría.
+SELECT RANK() OVER (ORDER BY PRODUCT, CATEGORY) AS PRODUCTID,
+PRODUCT, CATEGORY
+FROM DAILY_SALES_VW
+GROUP BY PRODUCT, CATEGORY;
 
-CREATE OR REPLACE VIEW `cogent-tree-369319.codigo_facilito_dw.vw_gold_dim_city` AS (
-    SELECT 
-        RANK() OVER (ORDER BY city) AS city_id,
-        city
-    FROM 
-        `cogent-tree-369319.codigo_facilito_dw.vw_silver_sales_report` 
-    GROUP BY 
-        city;
-    );
+CREATE OR REPLACE VIEW GOLD_DIM_CITY_VW AS 
+-- Esta vista crea la dimensión de ciudad con un ID único para cada ciudad.
+SELECT RANK() OVER (ORDER BY CITY) AS CITYID,
+CITY
+FROM DAILY_SALES_VW
+GROUP BY CITY;
 
-CREATE OR REPLACE VIEW `cogent-tree-369319.codigo_facilito_dw.vw_gold_dim_calendar` AS (
-    SELECT
-        fecha,
-        EXTRACT(DAY FROM fecha) AS dia,
-        EXTRACT(MONTH FROM fecha) AS mes,
-        EXTRACT(YEAR FROM fecha) AS anio,
-        EXTRACT(DAYOFWEEK FROM fecha) AS dia_de_la_semana,
-        EXTRACT(WEEK FROM fecha) AS semana_del_anio,
-        CASE
-            WHEN EXTRACT(DAYOFWEEK FROM fecha) IN (1, 7) THEN 'Fin de semana'
-            ELSE 'Día laborable'
-        END AS tipo_dia
-    FROM (
-        SELECT DISTINCT
-            CAST(fecha AS DATE) AS fecha
-        FROM
-            `cogent-tree-369319.codigo_facilito_dw.vw_silver_sales_report`
-    ) AS fechas_disponibles;
-);
 
-CREATE OR REPLACE VIEW `cogent-tree-369319.codigo_facilito_dw.vw_gold_fact_sales` AS (
-    SELECT 
-        fecha, product_id, city_id, quantity_ordered, sales
-    FROM 
-        `cogent-tree-369319.codigo_facilito_dw.vw_silver_sales_report`
-    JOIN 
-        `cogent-tree-369319.codigo_facilito_dw.vw_gold_dim_product` 
-    USING 
-        (product, category)
-    JOIN 
-        `cogent-tree-369319.codigo_facilito_dw.vw_gold_dim_city` 
-    USING 
-        (city)
-);
+CREATE OR REPLACE VIEW GOLD_DIM_CALENDAR_VW AS 
+-- Esta vista crea la dimensión de ciudad con un ID único para cada ciudad.
+SELECT 
+ORDERDATE,
+EXTRACT(DAY FROM ORDERDATE) AS DDAY,
+EXTRACT(MONTH FROM ORDERDATE) AS DMONTH,
+EXTRACT(YEAR FROM ORDERDATE) AS DYEAR,
+EXTRACT(DAYOFWEEK FROM ORDERDATE) AS DDAYOFWEEK,
+EXTRACT(WEEK FROM ORDERDATE) AS DWEEK,
+FROM (SELECT DISTINCT ORDERDATE FROM DAILY_SALES_VW) AS DD;
+
+CREATE OR REPLACE VIEW GOLD_FACT_SALES_VW AS 
+-- Esta vista crea la dimensión de ciudad con un ID único para cada ciudad.
+SELECT 
+S.ORDERDATE,
+DP.PRODUCTID,
+DC.CITYID,
+S.QUANTITYORDERED,
+S.SALES
+FROM DAILY_SALES_VW AS S
+JOIN GOLD_DIM_PRODUCT_VW AS DP ON S.PRODUCT = DP.PRODUCT AND S.CATEGORY = DP.CATEGORY
+JOIN GOLD_DIM_CITY_VW AS DC ON S.CITY = DC.CITY

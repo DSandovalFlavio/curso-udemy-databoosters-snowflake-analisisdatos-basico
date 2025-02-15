@@ -1,0 +1,29 @@
+-- CREATE INTEGRATION 
+CREATE STORAGE INTEGRATION IF NOT EXISTS gcs_integration
+TYPE = EXTERNAL_STORAGE
+STORAGE_PROVIDER = 'GCS'
+ENABLED = TRUE
+STORAGE_ALLOWED_LOCATIONS = ('gcs://databoosters-snowflake-data/');
+
+-------------------------------------
+
+CREATE NOTIFICATION INTEGRATION notification_gcs_snow_mkt
+TYPE = QUEUE
+NOTIFICATION_PROVIDER = GCP_PUBSUB
+ENEBLE = true
+GCP_PUBSUB_SUBSCRIPTION_NAME = 'projects/curso-databooster-snowflake/subscriptions/subs_pipe_gcs_snow';
+
+-----------------------------------
+CREATE STAGE pipe_mkt_gcs_snow
+URL = 'gcs://databoosters-snowflake-data'
+STORAGE_INTEGRATION = gcs_integration;
+
+-----------------------------------
+CREATE OR REPLACE PIPE snowpipe_mkt_gcs_snow
+AUTO_INGEST = true
+INTEGRATION = notification_gcs_snow_mkt
+AS
+    COPY INTO DATABUSTERS_SAMPLE.PUBLIC.performance_mkt_snow
+    FROM @pipe_mkt_gcs_snow
+    FILE_FORMAT = (TYPE='CSV' SKIP_HEADER = 1)
+    ON_ERROR = 'CONTINUE';
